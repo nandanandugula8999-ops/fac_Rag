@@ -1,0 +1,1101 @@
+{
+  "query": "computer vision",
+  "status": "ok",
+  "verified": true,
+  "answer_text": "Evidence for 'computer vision':\nChao-Yuan Wu [EVIDENCE_BASED]: A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.\n\nEvidence for 'computer vision':\nTrevor J. Darrell [EVIDENCE_BASED]: A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.\n\nEvidence for 'computer vision':\nChristoph Feichtenhofer [EVIDENCE_BASED]: A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.\n\nEvidence for 'computer vision':\nZheng Zhang [EVIDENCE_BASED]: It advances 3D computer vision one more step from laboratory environments to real world use.\n\nEvidence for 'computer vision':\nAndrew Zisserman [EVIDENCE_BASED]: Title: Multiple View Geometry in Computer Vision\n\nAbstract: A basic problem in computer vision is to understand the structure of a real world scene given several images of it.\n\nEvidence for 'computer vision':\nTakeo Kanade [EVIDENCE_BASED]: Title: An Iterative Image Registration Technique with an Application to Stereo Vision\n\nAbstract: Image registration finds a variety of applications in computer vision.\n\nEvidence for 'computer vision':\nBruce D. Lucas [EVIDENCE_BASED]: Title: An Iterative Image Registration Technique with an Application to Stereo Vision\n\nAbstract: Image registration finds a variety of applications in computer vision.\n\nEvidence for 'computer vision':\nSaining Xie [EVIDENCE_BASED]: A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+  "warnings": [],
+  "llm_model": "extractive-v1",
+  "claims": [
+    {
+      "text": "Chao-Yuan Wu [EVIDENCE_BASED]: A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:2ff287a0b5a6ffa7:5",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "source_url": "https://doi.org/10.1109/cvpr52688.2022.01167",
+          "quote": "A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+          "work_id": "W4312443924",
+          "faculty_id": "A5023917342"
+        }
+      ]
+    },
+    {
+      "text": "Trevor J. Darrell [EVIDENCE_BASED]: A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:59d58d17144e87d2:10",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "source_url": "https://doi.org/10.1109/cvpr52688.2022.01167",
+          "quote": "A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+          "work_id": "W4312443924",
+          "faculty_id": "A5029105520"
+        }
+      ]
+    },
+    {
+      "text": "Christoph Feichtenhofer [EVIDENCE_BASED]: A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:8590e5340606055c:13",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "source_url": "https://doi.org/10.1109/cvpr52688.2022.01167",
+          "quote": "A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+          "work_id": "W4312443924",
+          "faculty_id": "A5036069974"
+        }
+      ]
+    },
+    {
+      "text": "Zheng Zhang [EVIDENCE_BASED]: It advances 3D computer vision one more step from laboratory environments to real world use.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:46df4691fe950329:7",
+          "title": "A flexible new technique for camera calibration",
+          "year": 2000,
+          "doi": "10.1109/34.888718",
+          "source_url": "https://doi.org/10.1109/34.888718",
+          "quote": "It advances 3D computer vision one more step from laboratory environments to real world use.",
+          "work_id": "W2167667767",
+          "faculty_id": "A5056480447"
+        }
+      ]
+    },
+    {
+      "text": "Andrew Zisserman [EVIDENCE_BASED]: Title: Multiple View Geometry in Computer Vision\n\nAbstract: A basic problem in computer vision is to understand the structure of a real world scene given several images of it.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:baf4b8c0a0116252:2",
+          "title": "Multiple View Geometry in Computer Vision",
+          "year": 2004,
+          "doi": "10.1017/cbo9780511811685",
+          "source_url": "https://doi.org/10.1017/cbo9780511811685",
+          "quote": "Title: Multiple View Geometry in Computer Vision\n\nAbstract: A basic problem in computer vision is to understand the structure of a real world scene given several images of it.",
+          "work_id": "W2033819227",
+          "faculty_id": "A5057678172"
+        }
+      ]
+    },
+    {
+      "text": "Takeo Kanade [EVIDENCE_BASED]: Title: An Iterative Image Registration Technique with an Application to Stereo Vision\n\nAbstract: Image registration finds a variety of applications in computer vision.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:83a22630d5e97a72:1",
+          "title": "An Iterative Image Registration Technique with an Application to Stereo Vision",
+          "year": 1981,
+          "doi": null,
+          "source_url": "https://openalex.org/W2118877769",
+          "quote": "Title: An Iterative Image Registration Technique with an Application to Stereo Vision\n\nAbstract: Image registration finds a variety of applications in computer vision.",
+          "work_id": "W2118877769",
+          "faculty_id": "A5057924291"
+        }
+      ]
+    },
+    {
+      "text": "Bruce D. Lucas [EVIDENCE_BASED]: Title: An Iterative Image Registration Technique with an Application to Stereo Vision\n\nAbstract: Image registration finds a variety of applications in computer vision.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:d3849d356da6156a:3",
+          "title": "An Iterative Image Registration Technique with an Application to Stereo Vision",
+          "year": 1981,
+          "doi": null,
+          "source_url": "https://openalex.org/W2118877769",
+          "quote": "Title: An Iterative Image Registration Technique with an Application to Stereo Vision\n\nAbstract: Image registration finds a variety of applications in computer vision.",
+          "work_id": "W2118877769",
+          "faculty_id": "A5081691937"
+        }
+      ]
+    },
+    {
+      "text": "Saining Xie [EVIDENCE_BASED]: A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:54b9cc5941dfd41a:8",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "source_url": "https://doi.org/10.1109/cvpr52688.2022.01167",
+          "quote": "A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+          "work_id": "W4312443924",
+          "faculty_id": "A5102416863"
+        }
+      ]
+    }
+  ],
+  "corpus_source": "live-openalex",
+  "corpus_profiles": 199,
+  "corpus_documents": 416,
+  "matches": [
+    {
+      "faculty_id": "A5057924291",
+      "faculty_name": "Takeo Kanade",
+      "score": 0.5094925588608054,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8703831213872092,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I74973139",
+          "name": "Carnegie Mellon University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Vision and Imaging"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2118877769",
+          "title": "An Iterative Image Registration Technique with an Application to Stereo Vision",
+          "year": 1981,
+          "doi": null,
+          "citation_url": "https://openalex.org/W2118877769"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: An Iterative Image Registration Technique with an Application to Stereo Vision\n\nAbstract: Image registration finds a variety of applications in computer vision.",
+          "title": "An Iterative Image Registration Technique with an Application to Stereo Vision",
+          "year": 1981,
+          "doi": null,
+          "source_url": "https://openalex.org/W2118877769",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2118877769",
+          "doc_id": "publication:83a22630d5e97a72"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5057924291 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 1.0,
+          "weight": 0.9,
+          "contribution": 0.9,
+          "explanation": "retrieved publications of A5057924291 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5057924291 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 1.0,
+          "weight": 0.6,
+          "contribution": 0.6,
+          "explanation": "retrieved publications of A5057924291 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.0034005881378754844,
+          "weight": 0.3,
+          "contribution": 0.0010201764413626452,
+          "explanation": "recency of supporting publications for A5057924291"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5057924291"
+        },
+        {
+          "name": "citations",
+          "value": 0.9394965744396957,
+          "weight": 0.2,
+          "contribution": 0.18789931488793915,
+          "explanation": "citations to supporting publications for A5057924291"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5081691937",
+      "faculty_name": "Bruce D. Lucas",
+      "score": 0.5007349252015195,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8554221638859291,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I74973139",
+          "name": "Carnegie Mellon University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Vision and Imaging"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2118877769",
+          "title": "An Iterative Image Registration Technique with an Application to Stereo Vision",
+          "year": 1981,
+          "doi": null,
+          "citation_url": "https://openalex.org/W2118877769"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: An Iterative Image Registration Technique with an Application to Stereo Vision\n\nAbstract: Image registration finds a variety of applications in computer vision.",
+          "title": "An Iterative Image Registration Technique with an Application to Stereo Vision",
+          "year": 1981,
+          "doi": null,
+          "source_url": "https://openalex.org/W2118877769",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2118877769",
+          "doc_id": "publication:d3849d356da6156a"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5081691937 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.9760624679979518,
+          "weight": 0.9,
+          "contribution": 0.8784562211981567,
+          "explanation": "retrieved publications of A5081691937 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5081691937 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9760624679979518,
+          "weight": 0.6,
+          "contribution": 0.5856374807987711,
+          "explanation": "retrieved publications of A5081691937 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.0034005881378754844,
+          "weight": 0.3,
+          "contribution": 0.0010201764413626452,
+          "explanation": "recency of supporting publications for A5081691937"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5081691937"
+        },
+        {
+          "name": "citations",
+          "value": 0.9394965744396957,
+          "weight": 0.2,
+          "contribution": 0.18789931488793915,
+          "explanation": "citations to supporting publications for A5081691937"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5056480447",
+      "faculty_name": "Zheng Zhang",
+      "score": 0.45715104677980156,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.780966371582161,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I1290206253",
+          "name": "Microsoft (United States)"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Vision and Imaging"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2167667767",
+          "title": "A flexible new technique for camera calibration",
+          "year": 2000,
+          "doi": "10.1109/34.888718",
+          "citation_url": "https://doi.org/10.1109/34.888718"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "It advances 3D computer vision one more step from laboratory environments to real world use.",
+          "title": "A flexible new technique for camera calibration",
+          "year": 2000,
+          "doi": "10.1109/34.888718",
+          "source_url": "https://doi.org/10.1109/34.888718",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2167667767",
+          "doc_id": "publication:46df4691fe950329"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5056480447 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8446333078686019,
+          "weight": 0.9,
+          "contribution": 0.7601699770817417,
+          "explanation": "retrieved publications of A5056480447 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5056480447 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8446333078686019,
+          "weight": 0.6,
+          "contribution": 0.5067799847211611,
+          "explanation": "retrieved publications of A5056480447 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.04736614270344996,
+          "weight": 0.3,
+          "contribution": 0.014209842811034986,
+          "explanation": "recency of supporting publications for A5056480447"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5056480447"
+        },
+        {
+          "name": "citations",
+          "value": 0.9657974359162419,
+          "weight": 0.2,
+          "contribution": 0.19315948718324838,
+          "explanation": "citations to supporting publications for A5056480447"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5057678172",
+      "faculty_name": "Andrew Zisserman",
+      "score": 0.3666334132988167,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.6263320810521452,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I40120149",
+          "name": "University of Oxford"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Vision and Imaging"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2033819227",
+          "title": "Multiple View Geometry in Computer Vision",
+          "year": 2004,
+          "doi": "10.1017/cbo9780511811685",
+          "citation_url": "https://doi.org/10.1017/cbo9780511811685"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Multiple View Geometry in Computer Vision\n\nAbstract: A basic problem in computer vision is to understand the structure of a real world scene given several images of it.",
+          "title": "Multiple View Geometry in Computer Vision",
+          "year": 2004,
+          "doi": "10.1017/cbo9780511811685",
+          "source_url": "https://doi.org/10.1017/cbo9780511811685",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2033819227",
+          "doc_id": "publication:baf4b8c0a0116252"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5057678172 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.9760624679979518,
+          "weight": 0.9,
+          "contribution": 0.8784562211981567,
+          "explanation": "retrieved publications of A5057678172 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5057678172 without literal terms"
+        },
+        {
+          "name": "recency",
+          "value": 0.0824692444233059,
+          "weight": 0.3,
+          "contribution": 0.02474077332699177,
+          "explanation": "recency of supporting publications for A5057678172"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5057678172"
+        },
+        {
+          "name": "citations",
+          "value": 1.0,
+          "weight": 0.2,
+          "contribution": 0.2,
+          "explanation": "citations to supporting publications for A5057678172"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5020216442",
+      "faculty_name": "Richard I. Hartley",
+      "score": 0.3615983593480468,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.6177305305529133,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I118347636",
+          "name": "Australian National University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Vision and Imaging"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2033819227",
+          "title": "Multiple View Geometry in Computer Vision",
+          "year": 2004,
+          "doi": "10.1017/cbo9780511811685",
+          "citation_url": "https://doi.org/10.1017/cbo9780511811685"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Multiple View Geometry in Computer Vision\n\nAbstract: A basic problem in computer vision is to understand the structure of a real world scene given several images of it.",
+          "title": "Multiple View Geometry in Computer Vision",
+          "year": 2004,
+          "doi": "10.1017/cbo9780511811685",
+          "source_url": "https://doi.org/10.1017/cbo9780511811685",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2033819227",
+          "doc_id": "publication:efe8ee7a264f763d"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5020216442 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.953125,
+          "weight": 0.9,
+          "contribution": 0.8578125,
+          "explanation": "retrieved publications of A5020216442 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5020216442 without literal terms"
+        },
+        {
+          "name": "recency",
+          "value": 0.0824692444233059,
+          "weight": 0.3,
+          "contribution": 0.02474077332699177,
+          "explanation": "recency of supporting publications for A5020216442"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5020216442"
+        },
+        {
+          "name": "citations",
+          "value": 1.0,
+          "weight": 0.2,
+          "contribution": 0.2,
+          "explanation": "citations to supporting publications for A5020216442"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5023917342",
+      "faculty_name": "Chao-Yuan Wu",
+      "score": 0.3400201797529541,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.5808678070779633,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I4210114444",
+          "name": "Meta (United States)"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4312443924",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "citation_url": "https://doi.org/10.1109/cvpr52688.2022.01167"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "source_url": "https://doi.org/10.1109/cvpr52688.2022.01167",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4312443924",
+          "doc_id": "publication:2ff287a0b5a6ffa7"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5023917342 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5023917342 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5023917342 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8551960784313725,
+          "weight": 0.6,
+          "contribution": 0.5131176470588235,
+          "explanation": "retrieved publications of A5023917342 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5023917342"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5023917342"
+        },
+        {
+          "name": "citations",
+          "value": 0.9048254496414418,
+          "weight": 0.2,
+          "contribution": 0.1809650899282884,
+          "explanation": "citations to supporting publications for A5023917342"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5102416863",
+      "faculty_name": "Saining Xie",
+      "score": 0.3382858426626456,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.5779049812153529,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I4210114444",
+          "name": "Meta (United States)"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4312443924",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "citation_url": "https://doi.org/10.1109/cvpr52688.2022.01167"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "source_url": "https://doi.org/10.1109/cvpr52688.2022.01167",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4312443924",
+          "doc_id": "publication:54b9cc5941dfd41a"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5102416863 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5102416863 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5102416863 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8433447749809306,
+          "weight": 0.6,
+          "contribution": 0.5060068649885584,
+          "explanation": "retrieved publications of A5102416863 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5102416863"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5102416863"
+        },
+        {
+          "name": "citations",
+          "value": 0.9048254496414418,
+          "weight": 0.2,
+          "contribution": 0.1809650899282884,
+          "explanation": "citations to supporting publications for A5102416863"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5029105520",
+      "faculty_name": "Trevor J. Darrell",
+      "score": 0.3365990241510238,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.5750233329246656,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I95457486",
+          "name": "University of California, Berkeley"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4312443924",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "citation_url": "https://doi.org/10.1109/cvpr52688.2022.01167"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "source_url": "https://doi.org/10.1109/cvpr52688.2022.01167",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4312443924",
+          "doc_id": "publication:59d58d17144e87d2"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5029105520 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5029105520 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5029105520 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8318181818181818,
+          "weight": 0.6,
+          "contribution": 0.49909090909090903,
+          "explanation": "retrieved publications of A5029105520 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5029105520"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5029105520"
+        },
+        {
+          "name": "citations",
+          "value": 0.9048254496414418,
+          "weight": 0.2,
+          "contribution": 0.1809650899282884,
+          "explanation": "citations to supporting publications for A5029105520"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5036069974",
+      "faculty_name": "Christoph Feichtenhofer",
+      "score": 0.3328384133481595,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.5685989561364391,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I4210114444",
+          "name": "Meta (United States)"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4312443924",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "citation_url": "https://doi.org/10.1109/cvpr52688.2022.01167"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "source_url": "https://doi.org/10.1109/cvpr52688.2022.01167",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4312443924",
+          "doc_id": "publication:8590e5340606055c"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5036069974 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5036069974 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5036069974 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8061206746652756,
+          "weight": 0.6,
+          "contribution": 0.48367240479916535,
+          "explanation": "retrieved publications of A5036069974 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5036069974"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5036069974"
+        },
+        {
+          "name": "citations",
+          "value": 0.9048254496414418,
+          "weight": 0.2,
+          "contribution": 0.1809650899282884,
+          "explanation": "citations to supporting publications for A5036069974"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5100452089",
+      "faculty_name": "Zhuang Liu",
+      "score": 0.3293721644492717,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.5626774476008392,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I4210114444",
+          "name": "Meta (United States)"
+        },
+        {
+          "id": "I95457486",
+          "name": "University of California, Berkeley"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4312443924",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "citation_url": "https://doi.org/10.1109/cvpr52688.2022.01167"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "A vanilla ViT, on the other hand, faces difficulties when applied to general computer vision tasks such as object detection and semantic segmentation.",
+          "title": "A ConvNet for the 2020s",
+          "year": 2022,
+          "doi": "10.1109/cvpr52688.2022.01167",
+          "source_url": "https://doi.org/10.1109/cvpr52688.2022.01167",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4312443924",
+          "doc_id": "publication:f14dd607d5bd6fbe"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5100452089 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5100452089 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5100452089 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.7824346405228757,
+          "weight": 0.6,
+          "contribution": 0.4694607843137254,
+          "explanation": "retrieved publications of A5100452089 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5100452089"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5100452089"
+        },
+        {
+          "name": "citations",
+          "value": 0.9048254496414418,
+          "weight": 0.2,
+          "contribution": 0.1809650899282884,
+          "explanation": "citations to supporting publications for A5100452089"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    }
+  ],
+  "discovery": {
+    "provider": "openalex",
+    "cached": false,
+    "works_retrieved": 50,
+    "api_calls": 1,
+    "scope_institutions": [],
+    "crossref_checked": 45,
+    "crossref_verified": 10,
+    "crossref_enriched": 0,
+    "crossref_mismatched": 1,
+    "query": "computer vision"
+  }
+}

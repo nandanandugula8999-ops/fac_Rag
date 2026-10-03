@@ -1,0 +1,1116 @@
+{
+  "query": "robotics",
+  "status": "ok",
+  "verified": true,
+  "answer_text": "Evidence for 'robotics':\nShaojie Shen [EVIDENCE_BASED]: We open source our implementations for both PCs (https://github.com/HKUST-Aerial-Robotics/VINS-Mono) and iOS mobile devices (https://github.com/HKUST-Aerial-Robotics/VINS-Mobile).\n\nEvidence for 'robotics':\nRaquel Urtasun [EVIDENCE_BASED]: Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.\n\nEvidence for 'robotics':\nAndreas Geiger [EVIDENCE_BASED]: Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.\n\nEvidence for 'robotics':\nPeiliang Li [EVIDENCE_BASED]: We open source our implementations for both PCs (https://github.com/HKUST-Aerial-Robotics/VINS-Mono) and iOS mobile devices (https://github.com/HKUST-Aerial-Robotics/VINS-Mobile).\n\nEvidence for 'robotics':\nPhilip Lenz [EVIDENCE_BASED]: Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.\n\nEvidence for 'robotics':\nSebastian Thrun [EVIDENCE_BASED]: Title: Probabilistic robotics\n\nAbstract: Planning and navigation algorithms exploit statistics gleaned from uncertain, imperfect real-world environments to guide robots toward their goals and around obstacles.\n\nEvidence for 'robotics':\nChristoph Stiller [EVIDENCE_BASED]: Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.\n\nEvidence for 'robotics':\nRadu Bogdan Rusu [EVIDENCE_BASED]: Title: 3D is here: Point Cloud Library (PCL)\n\nAbstract: With the advent of new, low-cost 3D sensing hardware such as the Kinect, and continued efforts in advanced point cloud processing, 3D perception gains more and more importance in robotics, as well as other fields.",
+  "warnings": [],
+  "llm_model": "extractive-v1",
+  "claims": [
+    {
+      "text": "Shaojie Shen [EVIDENCE_BASED]: We open source our implementations for both PCs (https://github.com/HKUST-Aerial-Robotics/VINS-Mono) and iOS mobile devices (https://github.com/HKUST-Aerial-Robotics/VINS-Mobile).",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:87452128216f2f84:12",
+          "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+          "year": 2018,
+          "doi": "10.1109/tro.2018.2853729",
+          "source_url": "https://doi.org/10.1109/tro.2018.2853729",
+          "quote": "We open source our implementations for both PCs (https://github.com/HKUST-Aerial-Robotics/VINS-Mono) and iOS mobile devices (https://github.com/HKUST-Aerial-Robotics/VINS-Mobile).",
+          "work_id": "W2745859992",
+          "faculty_id": "A5001947944"
+        }
+      ]
+    },
+    {
+      "text": "Raquel Urtasun [EVIDENCE_BASED]: Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:6d6d33545eafe578:8",
+          "title": "Vision meets robotics: The KITTI dataset",
+          "year": 2013,
+          "doi": "10.1177/0278364913491297",
+          "source_url": "https://doi.org/10.1177/0278364913491297",
+          "quote": "Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.",
+          "work_id": "W2115579991",
+          "faculty_id": "A5010469348"
+        }
+      ]
+    },
+    {
+      "text": "Andreas Geiger [EVIDENCE_BASED]: Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:495dce6775248e4e:4",
+          "title": "Vision meets robotics: The KITTI dataset",
+          "year": 2013,
+          "doi": "10.1177/0278364913491297",
+          "source_url": "https://doi.org/10.1177/0278364913491297",
+          "quote": "Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.",
+          "work_id": "W2115579991",
+          "faculty_id": "A5016606943"
+        }
+      ]
+    },
+    {
+      "text": "Peiliang Li [EVIDENCE_BASED]: We open source our implementations for both PCs (https://github.com/HKUST-Aerial-Robotics/VINS-Mono) and iOS mobile devices (https://github.com/HKUST-Aerial-Robotics/VINS-Mobile).",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:5c5ec491f3847df0:11",
+          "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+          "year": 2018,
+          "doi": "10.1109/tro.2018.2853729",
+          "source_url": "https://doi.org/10.1109/tro.2018.2853729",
+          "quote": "We open source our implementations for both PCs (https://github.com/HKUST-Aerial-Robotics/VINS-Mono) and iOS mobile devices (https://github.com/HKUST-Aerial-Robotics/VINS-Mobile).",
+          "work_id": "W2745859992",
+          "faculty_id": "A5016925825"
+        }
+      ]
+    },
+    {
+      "text": "Philip Lenz [EVIDENCE_BASED]: Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:668fa58967a8c6ad:6",
+          "title": "Vision meets robotics: The KITTI dataset",
+          "year": 2013,
+          "doi": "10.1177/0278364913491297",
+          "source_url": "https://doi.org/10.1177/0278364913491297",
+          "quote": "Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.",
+          "work_id": "W2115579991",
+          "faculty_id": "A5052123947"
+        }
+      ]
+    },
+    {
+      "text": "Sebastian Thrun [EVIDENCE_BASED]: Title: Probabilistic robotics\n\nAbstract: Planning and navigation algorithms exploit statistics gleaned from uncertain, imperfect real-world environments to guide robots toward their goals and around obstacles.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:6ff01eb9ad98ee5c:5",
+          "title": "Probabilistic robotics",
+          "year": 2002,
+          "doi": "10.1145/504729.504754",
+          "source_url": "https://doi.org/10.1145/504729.504754",
+          "quote": "Title: Probabilistic robotics\n\nAbstract: Planning and navigation algorithms exploit statistics gleaned from uncertain, imperfect real-world environments to guide robots toward their goals and around obstacles.",
+          "work_id": "W2336416123",
+          "faculty_id": "A5066710774"
+        }
+      ]
+    },
+    {
+      "text": "Christoph Stiller [EVIDENCE_BASED]: Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:2ecf4bd88dacd9a8:2",
+          "title": "Vision meets robotics: The KITTI dataset",
+          "year": 2013,
+          "doi": "10.1177/0278364913491297",
+          "source_url": "https://doi.org/10.1177/0278364913491297",
+          "quote": "Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.",
+          "work_id": "W2115579991",
+          "faculty_id": "A5091574711"
+        }
+      ]
+    },
+    {
+      "text": "Radu Bogdan Rusu [EVIDENCE_BASED]: Title: 3D is here: Point Cloud Library (PCL)\n\nAbstract: With the advent of new, low-cost 3D sensing hardware such as the Kinect, and continued efforts in advanced point cloud processing, 3D perception gains more and more importance in robotics, as well as other fields.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:aa91df399eb35a65:7",
+          "title": "3D is here: Point Cloud Library (PCL)",
+          "year": 2011,
+          "doi": "10.1109/icra.2011.5980567",
+          "source_url": "https://doi.org/10.1109/icra.2011.5980567",
+          "quote": "Title: 3D is here: Point Cloud Library (PCL)\n\nAbstract: With the advent of new, low-cost 3D sensing hardware such as the Kinect, and continued efforts in advanced point cloud processing, 3D perception gains more and more importance in robotics, as well as other fields.",
+          "work_id": "W2152864241",
+          "faculty_id": "A5112225953"
+        }
+      ]
+    }
+  ],
+  "corpus_source": "live-openalex",
+  "corpus_profiles": 152,
+  "corpus_documents": 308,
+  "matches": [
+    {
+      "faculty_id": "A5091574711",
+      "faculty_name": "Christoph Stiller",
+      "score": 0.532894420766314,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.910361302142453,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I102335020",
+          "name": "Karlsruhe Institute of Technology"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Robotics and Sensor-Based Localization"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2115579991",
+          "title": "Vision meets robotics: The KITTI dataset",
+          "year": 2013,
+          "doi": "10.1177/0278364913491297",
+          "citation_url": "https://doi.org/10.1177/0278364913491297"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.",
+          "title": "Vision meets robotics: The KITTI dataset",
+          "year": 2013,
+          "doi": "10.1177/0278364913491297",
+          "source_url": "https://doi.org/10.1177/0278364913491297",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2115579991",
+          "doc_id": "publication:2ecf4bd88dacd9a8"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5091574711 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.9684979838709676,
+          "weight": 0.9,
+          "contribution": 0.8716481854838709,
+          "explanation": "retrieved publications of A5091574711 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5091574711 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9684979838709676,
+          "weight": 0.6,
+          "contribution": 0.5810987903225806,
+          "explanation": "retrieved publications of A5091574711 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.5,
+          "weight": 0.3,
+          "contribution": 0.15,
+          "explanation": "recency of supporting publications for A5091574711"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5091574711"
+        },
+        {
+          "name": "citations",
+          "value": 0.9106007466771779,
+          "weight": 0.2,
+          "contribution": 0.1821201493354356,
+          "explanation": "citations to supporting publications for A5091574711"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5016606943",
+      "faculty_name": "Andreas Geiger",
+      "score": 0.5291151937493401,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9039051226551226,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I102335020",
+          "name": "Karlsruhe Institute of Technology"
+        },
+        {
+          "id": "I4210135521",
+          "name": "Max Planck Institute for Intelligent Systems"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Robotics and Sensor-Based Localization"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2115579991",
+          "title": "Vision meets robotics: The KITTI dataset",
+          "year": 2013,
+          "doi": "10.1177/0278364913491297",
+          "citation_url": "https://doi.org/10.1177/0278364913491297"
+        },
+        {
+          "work_id": "W2150066425",
+          "title": "Are we ready for autonomous driving? The KITTI vision benchmark suite",
+          "year": 2012,
+          "doi": "10.1109/cvpr.2012.6248074",
+          "citation_url": "https://doi.org/10.1109/cvpr.2012.6248074"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.",
+          "title": "Vision meets robotics: The KITTI dataset",
+          "year": 2013,
+          "doi": "10.1177/0278364913491297",
+          "source_url": "https://doi.org/10.1177/0278364913491297",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2115579991",
+          "doc_id": "publication:495dce6775248e4e"
+        },
+        {
+          "quote": "The KITTI vision benchmark suite\n\nAbstract: Today, visual recognition systems are still rarely employed in robotics applications.",
+          "title": "Are we ready for autonomous driving? The KITTI vision benchmark suite",
+          "year": 2012,
+          "doi": "10.1109/cvpr.2012.6248074",
+          "source_url": "https://doi.org/10.1109/cvpr.2012.6248074",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 0.7742861348248455,
+          "work_id": "W2150066425",
+          "doc_id": "publication:3ff8ce40e0c2cccb"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5016606943 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.9462481962481962,
+          "weight": 0.9,
+          "contribution": 0.8516233766233766,
+          "explanation": "retrieved publications of A5016606943 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5016606943 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9462481962481962,
+          "weight": 0.6,
+          "contribution": 0.5677489177489177,
+          "explanation": "retrieved publications of A5016606943 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.5,
+          "weight": 0.3,
+          "contribution": 0.15,
+          "explanation": "recency of supporting publications for A5016606943"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5016606943"
+        },
+        {
+          "name": "citations",
+          "value": 1.0,
+          "weight": 0.2,
+          "contribution": 0.2,
+          "explanation": "citations to supporting publications for A5016606943"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 2 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5052123947",
+      "faculty_name": "Philip Lenz",
+      "score": 0.5146359457551964,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8791697406651272,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I102335020",
+          "name": "Karlsruhe Institute of Technology"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Robotics and Sensor-Based Localization"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2115579991",
+          "title": "Vision meets robotics: The KITTI dataset",
+          "year": 2013,
+          "doi": "10.1177/0278364913491297",
+          "citation_url": "https://doi.org/10.1177/0278364913491297"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.",
+          "title": "Vision meets robotics: The KITTI dataset",
+          "year": 2013,
+          "doi": "10.1177/0278364913491297",
+          "source_url": "https://doi.org/10.1177/0278364913491297",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2115579991",
+          "doc_id": "publication:668fa58967a8c6ad"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5052123947 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.9185914855072463,
+          "weight": 0.9,
+          "contribution": 0.8267323369565217,
+          "explanation": "retrieved publications of A5052123947 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5052123947 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9185914855072463,
+          "weight": 0.6,
+          "contribution": 0.5511548913043478,
+          "explanation": "retrieved publications of A5052123947 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.5,
+          "weight": 0.3,
+          "contribution": 0.15,
+          "explanation": "recency of supporting publications for A5052123947"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5052123947"
+        },
+        {
+          "name": "citations",
+          "value": 0.9106007466771779,
+          "weight": 0.2,
+          "contribution": 0.1821201493354356,
+          "explanation": "citations to supporting publications for A5052123947"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5010469348",
+      "faculty_name": "Raquel Urtasun",
+      "score": 0.5073981708206557,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8668052084852867,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I160992636",
+          "name": "Toyota Technological Institute at Chicago"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Robotics and Sensor-Based Localization"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2115579991",
+          "title": "Vision meets robotics: The KITTI dataset",
+          "year": 2013,
+          "doi": "10.1177/0278364913491297",
+          "citation_url": "https://doi.org/10.1177/0278364913491297"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Vision meets robotics: The KITTI dataset\n\nAbstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research.",
+          "title": "Vision meets robotics: The KITTI dataset",
+          "year": 2013,
+          "doi": "10.1177/0278364913491297",
+          "source_url": "https://doi.org/10.1177/0278364913491297",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2115579991",
+          "doc_id": "publication:6d6d33545eafe578"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5010469348 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8988082340195017,
+          "weight": 0.9,
+          "contribution": 0.8089274106175516,
+          "explanation": "retrieved publications of A5010469348 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5010469348 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8988082340195017,
+          "weight": 0.6,
+          "contribution": 0.539284940411701,
+          "explanation": "retrieved publications of A5010469348 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.5,
+          "weight": 0.3,
+          "contribution": 0.15,
+          "explanation": "recency of supporting publications for A5010469348"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5010469348"
+        },
+        {
+          "name": "citations",
+          "value": 0.9106007466771779,
+          "weight": 0.2,
+          "contribution": 0.1821201493354356,
+          "explanation": "citations to supporting publications for A5010469348"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5112225953",
+      "faculty_name": "Radu Bogdan Rusu",
+      "score": 0.5020372993684614,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8576470530877882,
+      "inferred_score": 0.0,
+      "institutions": [],
+      "stated_topics": [],
+      "matched_topics": [
+        "Robotics and Sensor-Based Localization"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2152864241",
+          "title": "3D is here: Point Cloud Library (PCL)",
+          "year": 2011,
+          "doi": "10.1109/icra.2011.5980567",
+          "citation_url": "https://doi.org/10.1109/icra.2011.5980567"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: 3D is here: Point Cloud Library (PCL)\n\nAbstract: With the advent of new, low-cost 3D sensing hardware such as the Kinect, and continued efforts in advanced point cloud processing, 3D perception gains more and more importance in robotics, as well as other fields.",
+          "title": "3D is here: Point Cloud Library (PCL)",
+          "year": 2011,
+          "doi": "10.1109/icra.2011.5980567",
+          "source_url": "https://doi.org/10.1109/icra.2011.5980567",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2152864241",
+          "doc_id": "publication:aa91df399eb35a65"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5112225953 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.9177601809954751,
+          "weight": 0.9,
+          "contribution": 0.8259841628959276,
+          "explanation": "retrieved publications of A5112225953 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5112225953 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9177601809954751,
+          "weight": 0.6,
+          "contribution": 0.550656108597285,
+          "explanation": "retrieved publications of A5112225953 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.3789291416275995,
+          "weight": 0.3,
+          "contribution": 0.11367874248827985,
+          "explanation": "recency of supporting publications for A5112225953"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5112225953"
+        },
+        {
+          "name": "citations",
+          "value": 0.8401695671459948,
+          "weight": 0.2,
+          "contribution": 0.16803391342919896,
+          "explanation": "citations to supporting publications for A5112225953"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5113740284",
+      "faculty_name": "Steve Cousins",
+      "score": 0.494534623188749,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8448299812807796,
+      "inferred_score": 0.0,
+      "institutions": [],
+      "stated_topics": [],
+      "matched_topics": [
+        "Robotics and Sensor-Based Localization"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2152864241",
+          "title": "3D is here: Point Cloud Library (PCL)",
+          "year": 2011,
+          "doi": "10.1109/icra.2011.5980567",
+          "citation_url": "https://doi.org/10.1109/icra.2011.5980567"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: 3D is here: Point Cloud Library (PCL)\n\nAbstract: With the advent of new, low-cost 3D sensing hardware such as the Kinect, and continued efforts in advanced point cloud processing, 3D perception gains more and more importance in robotics, as well as other fields.",
+          "title": "3D is here: Point Cloud Library (PCL)",
+          "year": 2011,
+          "doi": "10.1109/icra.2011.5980567",
+          "source_url": "https://doi.org/10.1109/icra.2011.5980567",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2152864241",
+          "doc_id": "publication:e840bd977092324e"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5113740284 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8972528661042612,
+          "weight": 0.9,
+          "contribution": 0.8075275794938351,
+          "explanation": "retrieved publications of A5113740284 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5113740284 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8972528661042612,
+          "weight": 0.6,
+          "contribution": 0.5383517196625567,
+          "explanation": "retrieved publications of A5113740284 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.3789291416275995,
+          "weight": 0.3,
+          "contribution": 0.11367874248827985,
+          "explanation": "recency of supporting publications for A5113740284"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5113740284"
+        },
+        {
+          "name": "citations",
+          "value": 0.8401695671459948,
+          "weight": 0.2,
+          "contribution": 0.16803391342919896,
+          "explanation": "citations to supporting publications for A5113740284"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5066710774",
+      "faculty_name": "Sebastian Thrun",
+      "score": 0.4925207957265857,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8413896926995839,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I74973139",
+          "name": "Carnegie Mellon University"
+        },
+        {
+          "id": "I97018004",
+          "name": "Stanford University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Robotics and Sensor-Based Localization"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2336416123",
+          "title": "Probabilistic robotics",
+          "year": 2002,
+          "doi": "10.1145/504729.504754",
+          "citation_url": "https://doi.org/10.1145/504729.504754"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Probabilistic robotics\n\nAbstract: Planning and navigation algorithms exploit statistics gleaned from uncertain, imperfect real-world environments to guide robots toward their goals and around obstacles.",
+          "title": "Probabilistic robotics",
+          "year": 2002,
+          "doi": "10.1145/504729.504754",
+          "source_url": "https://doi.org/10.1145/504729.504754",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2336416123",
+          "doc_id": "publication:6ff01eb9ad98ee5c"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5066710774 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.939350864723999,
+          "weight": 0.9,
+          "contribution": 0.8454157782515991,
+          "explanation": "retrieved publications of A5066710774 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5066710774 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.939350864723999,
+          "weight": 0.6,
+          "contribution": 0.5636105188343994,
+          "explanation": "retrieved publications of A5066710774 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.10881882041201554,
+          "weight": 0.3,
+          "contribution": 0.03264564612360466,
+          "explanation": "recency of supporting publications for A5066710774"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5066710774"
+        },
+        {
+          "name": "citations",
+          "value": 0.8883165963469903,
+          "weight": 0.2,
+          "contribution": 0.17766331926939807,
+          "explanation": "citations to supporting publications for A5066710774"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5016925825",
+      "faculty_name": "Peiliang Li",
+      "score": 0.3929513238499845,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.6712918449103902,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I200769079",
+          "name": "Hong Kong University of Science and Technology"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Robotics and Sensor-Based Localization"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2745859992",
+          "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+          "year": 2018,
+          "doi": "10.1109/tro.2018.2853729",
+          "citation_url": "https://doi.org/10.1109/tro.2018.2853729"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "We open source our implementations for both PCs (https://github.com/HKUST-Aerial-Robotics/VINS-Mono) and iOS mobile devices (https://github.com/HKUST-Aerial-Robotics/VINS-Mobile).",
+          "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+          "year": 2018,
+          "doi": "10.1109/tro.2018.2853729",
+          "source_url": "https://doi.org/10.1109/tro.2018.2853729",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2745859992",
+          "doc_id": "publication:5c5ec491f3847df0"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5016925825 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8267399267399267,
+          "weight": 0.9,
+          "contribution": 0.744065934065934,
+          "explanation": "retrieved publications of A5016925825 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5016925825 without literal terms"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5016925825"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5016925825"
+        },
+        {
+          "name": "citations",
+          "value": 0.835172468595012,
+          "weight": 0.2,
+          "contribution": 0.16703449371900242,
+          "explanation": "citations to supporting publications for A5016925825"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5001947944",
+      "faculty_name": "Shaojie Shen",
+      "score": 0.38945834439728333,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.6653246716786924,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I200769079",
+          "name": "Hong Kong University of Science and Technology"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Robotics and Sensor-Based Localization"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2745859992",
+          "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+          "year": 2018,
+          "doi": "10.1109/tro.2018.2853729",
+          "citation_url": "https://doi.org/10.1109/tro.2018.2853729"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "We open source our implementations for both PCs (https://github.com/HKUST-Aerial-Robotics/VINS-Mono) and iOS mobile devices (https://github.com/HKUST-Aerial-Robotics/VINS-Mobile).",
+          "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+          "year": 2018,
+          "doi": "10.1109/tro.2018.2853729",
+          "source_url": "https://doi.org/10.1109/tro.2018.2853729",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2745859992",
+          "doc_id": "publication:87452128216f2f84"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5001947944 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8108274647887324,
+          "weight": 0.9,
+          "contribution": 0.7297447183098591,
+          "explanation": "retrieved publications of A5001947944 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5001947944 without literal terms"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5001947944"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5001947944"
+        },
+        {
+          "name": "citations",
+          "value": 0.835172468595012,
+          "weight": 0.2,
+          "contribution": 0.16703449371900242,
+          "explanation": "citations to supporting publications for A5001947944"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5082261032",
+      "faculty_name": "Tong Qin",
+      "score": 0.3861074612877995,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.6596002463666575,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I200769079",
+          "name": "Hong Kong University of Science and Technology"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Robotics and Sensor-Based Localization"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2745859992",
+          "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+          "year": 2018,
+          "doi": "10.1109/tro.2018.2853729",
+          "citation_url": "https://doi.org/10.1109/tro.2018.2853729"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "We open source our implementations for both PCs (https://github.com/HKUST-Aerial-Robotics/VINS-Mono) and iOS mobile devices (https://github.com/HKUST-Aerial-Robotics/VINS-Mobile).",
+          "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+          "year": 2018,
+          "doi": "10.1109/tro.2018.2853729",
+          "source_url": "https://doi.org/10.1109/tro.2018.2853729",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2745859992",
+          "doc_id": "publication:ba83ada87a0f3aa7"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5082261032 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.7955623306233062,
+          "weight": 0.9,
+          "contribution": 0.7160060975609756,
+          "explanation": "retrieved publications of A5082261032 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5082261032 without literal terms"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5082261032"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5082261032"
+        },
+        {
+          "name": "citations",
+          "value": 0.835172468595012,
+          "weight": 0.2,
+          "contribution": 0.16703449371900242,
+          "explanation": "citations to supporting publications for A5082261032"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    }
+  ],
+  "discovery": {
+    "provider": "openalex",
+    "cached": false,
+    "works_retrieved": 50,
+    "api_calls": 1,
+    "scope_institutions": [],
+    "crossref_checked": 41,
+    "crossref_verified": 11,
+    "crossref_enriched": 0,
+    "crossref_mismatched": 0,
+    "query": "robotics"
+  }
+}

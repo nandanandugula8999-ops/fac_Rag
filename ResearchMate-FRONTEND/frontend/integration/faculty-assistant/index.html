@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="referrer" content="no-referrer"><title>Faculty Assistant · ResearchMate</title><link rel="stylesheet" href="styles.css"><script src="config.js"></script><script type="module" src="app.js"></script></head>
+<body>
+<header><div class="wrap header"><a class="brand" href="./">Faculty<span>Discovery</span></a><span class="muted">ResearchMate · Faculty Assistant</span></div></header>
+<main class="wrap">
+<p class="eyebrow">EVIDENCE-BASED FACULTY DISCOVERY</p><h1>What research are you exploring?</h1><p class="intro">Search the existing RAG backend for faculty, supporting publications, and verified claims.</p>
+<form id="search-form"><label class="sr-only" for="query">Research topic</label><input id="query" name="query" maxlength="500" required placeholder="e.g. graph neural networks" autocomplete="off"><button id="search-button" type="submit">Find faculty</button><button id="cancel-button" type="button" class="secondary" hidden>Cancel</button></form>
+<div class="examples" aria-label="Example searches"><span>Try exploring</span><button>machine learning</button><button>computer vision</button><button>cybersecurity</button><button>quantum computing</button><button>natural language processing</button><button>robotics</button><button>graph neural networks</button></div>
+<p class="notice">This separate assistant calls FastAPI only. Your existing ResearchMate website is unchanged.</p>
+<section id="status" role="status" aria-live="polite" class="status">Enter a topic to begin. No sample faculty are preloaded.</section>
+<section id="answer" hidden class="answer" aria-label="Backend answer"></section>
+<section id="results" aria-label="Faculty search results" aria-busy="false"></section>
+<details id="raw-response" hidden><summary>View actual API response</summary><pre id="raw-json"></pre></details>
+</main><footer class="wrap">Scores and verification statuses are reported by the backend. A relevance score is not a probability of expertise.</footer>
+</body></html>

@@ -1,0 +1,232 @@
+{
+  "provenance": "Synthetic topic-membership labels; same vocabulary as generated corpus. Not independent judgments or a real-world quality estimate.",
+  "method": "BM25 + cosine of ten alias-normalized topic dimensions; reciprocal rank fusion; maximum publication score per faculty.",
+  "metrics": {
+    "meanPrecisionAt5": 1,
+    "meanRecallAt5": 0.9166666666666666,
+    "MRR": 1
+  },
+  "queries": [
+    {
+      "query": "Generative AI",
+      "topic": "Generative AI",
+      "relevantFacultyIds": [
+        "FAC-001",
+        "FAC-002",
+        "FAC-003",
+        "FAC-004",
+        "FAC-005"
+      ],
+      "returnedTop5": [
+        "FAC-002",
+        "FAC-003",
+        "FAC-004",
+        "FAC-001",
+        "FAC-005"
+      ],
+      "precisionAt5": 1,
+      "recallAt5": 1,
+      "reciprocalRank": 1
+    },
+    {
+      "query": "Cybersecurity",
+      "topic": "Cybersecurity",
+      "relevantFacultyIds": [
+        "FAC-006",
+        "FAC-007",
+        "FAC-008",
+        "FAC-009",
+        "FAC-010"
+      ],
+      "returnedTop5": [
+        "FAC-006",
+        "FAC-008",
+        "FAC-007",
+        "FAC-010",
+        "FAC-009"
+      ],
+      "precisionAt5": 1,
+      "recallAt5": 1,
+      "reciprocalRank": 1
+    },
+    {
+      "query": "NLP",
+      "topic": "Natural Language Processing",
+      "relevantFacultyIds": [
+        "FAC-011",
+        "FAC-012",
+        "FAC-013",
+        "FAC-014",
+        "FAC-015"
+      ],
+      "returnedTop5": [
+        "FAC-012",
+        "FAC-011",
+        "FAC-013",
+        "FAC-014",
+        "FAC-015"
+      ],
+      "precisionAt5": 1,
+      "recallAt5": 1,
+      "reciprocalRank": 1
+    },
+    {
+      "query": "Computer Vision",
+      "topic": "Computer Vision",
+      "relevantFacultyIds": [
+        "FAC-016",
+        "FAC-017",
+        "FAC-018",
+        "FAC-019",
+        "FAC-020"
+      ],
+      "returnedTop5": [
+        "FAC-016",
+        "FAC-017",
+        "FAC-019",
+        "FAC-018",
+        "FAC-020"
+      ],
+      "precisionAt5": 1,
+      "recallAt5": 1,
+      "reciprocalRank": 1
+    },
+    {
+      "query": "Healthcare AI",
+      "topic": "Healthcare AI",
+      "relevantFacultyIds": [
+        "FAC-001",
+        "FAC-021",
+        "FAC-022",
+        "FAC-023",
+        "FAC-024",
+        "FAC-025"
+      ],
+      "returnedTop5": [
+        "FAC-021",
+        "FAC-023",
+        "FAC-022",
+        "FAC-024",
+        "FAC-025"
+      ],
+      "precisionAt5": 1,
+      "recallAt5": 0.8333333333333334,
+      "reciprocalRank": 1
+    },
+    {
+      "query": "Robotics",
+      "topic": "Robotics",
+      "relevantFacultyIds": [
+        "FAC-026",
+        "FAC-027",
+        "FAC-028",
+        "FAC-029",
+        "FAC-030"
+      ],
+      "returnedTop5": [
+        "FAC-026",
+        "FAC-028",
+        "FAC-027",
+        "FAC-029",
+        "FAC-030"
+      ],
+      "precisionAt5": 1,
+      "recallAt5": 1,
+      "reciprocalRank": 1
+    },
+    {
+      "query": "IoT",
+      "topic": "Internet of Things",
+      "relevantFacultyIds": [
+        "FAC-031",
+        "FAC-032",
+        "FAC-033",
+        "FAC-034",
+        "FAC-035"
+      ],
+      "returnedTop5": [
+        "FAC-031",
+        "FAC-032",
+        "FAC-033",
+        "FAC-034",
+        "FAC-035"
+      ],
+      "precisionAt5": 1,
+      "recallAt5": 1,
+      "reciprocalRank": 1
+    },
+    {
+      "query": "Data Science",
+      "topic": "Data Science",
+      "relevantFacultyIds": [
+        "FAC-036",
+        "FAC-037",
+        "FAC-038",
+        "FAC-039",
+        "FAC-040"
+      ],
+      "returnedTop5": [
+        "FAC-036",
+        "FAC-037",
+        "FAC-038",
+        "FAC-040",
+        "FAC-039"
+      ],
+      "precisionAt5": 1,
+      "recallAt5": 1,
+      "reciprocalRank": 1
+    },
+    {
+      "query": "Cloud Computing",
+      "topic": "Cloud Computing",
+      "relevantFacultyIds": [
+        "FAC-041",
+        "FAC-042",
+        "FAC-043",
+        "FAC-044",
+        "FAC-045"
+      ],
+      "returnedTop5": [
+        "FAC-041",
+        "FAC-044",
+        "FAC-042",
+        "FAC-043",
+        "FAC-045"
+      ],
+      "precisionAt5": 1,
+      "recallAt5": 1,
+      "reciprocalRank": 1
+    },
+    {
+      "query": "Machine Learning",
+      "topic": "Machine Learning",
+      "relevantFacultyIds": [
+        "FAC-006",
+        "FAC-007",
+        "FAC-008",
+        "FAC-009",
+        "FAC-010",
+        "FAC-021",
+        "FAC-022",
+        "FAC-023",
+        "FAC-024",
+        "FAC-025",
+        "FAC-046",
+        "FAC-047",
+        "FAC-048",
+        "FAC-049",
+        "FAC-050"
+      ],
+      "returnedTop5": [
+        "FAC-047",
+        "FAC-048",
+        "FAC-046",
+        "FAC-049",
+        "FAC-050"
+      ],
+      "precisionAt5": 1,
+      "recallAt5": 0.3333333333333333,
+      "reciprocalRank": 1
+    }
+  ]
+}

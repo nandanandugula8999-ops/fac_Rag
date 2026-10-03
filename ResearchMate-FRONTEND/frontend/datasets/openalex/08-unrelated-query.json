@@ -1,0 +1,25 @@
+{
+  "query": "zzzxqvpl nonexistent purple teapot faculty topic 94721",
+  "status": "insufficient_evidence",
+  "verified": false,
+  "answer_text": "insufficient_evidence: no consented faculty evidence supports an answer to this query.",
+  "warnings": [
+    "no in-scope evidence discovered"
+  ],
+  "llm_model": "extractive-v1",
+  "claims": [],
+  "matches": [],
+  "corpus_source": "live-openalex",
+  "discovery": {
+    "provider": "openalex",
+    "cached": false,
+    "works_retrieved": 0,
+    "api_calls": 1,
+    "scope_institutions": [],
+    "crossref_checked": 0,
+    "crossref_verified": 0,
+    "crossref_enriched": 0,
+    "crossref_mismatched": 0,
+    "query": "zzzxqvpl nonexistent purple teapot faculty topic 94721"
+  }
+}

@@ -1,0 +1,1163 @@
+{
+  "query": "quantum computing",
+  "status": "ok",
+  "verified": true,
+  "answer_text": "Evidence for 'quantum computing':\nAram W. Harrow [EVIDENCE_BASED]: Title: Supervised learning with quantum-enhanced feature spaces\n\nEvidence for 'quantum computing':\nKristel F. L. Michielsen [EVIDENCE_BASED]: This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.\n\nEvidence for 'quantum computing':\nEleanor Gilbert Rieffel [EVIDENCE_BASED]: This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.\n\nEvidence for 'quantum computing':\nMaika Takita [EVIDENCE_BASED]: Title: Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets\n\nEvidence for 'quantum computing':\nAbhinav Kandala [EVIDENCE_BASED]: Title: Supervised learning with quantum-enhanced feature spaces\n\nEvidence for 'quantum computing':\nKevin J. Satzinger [EVIDENCE_BASED]: This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.\n\nEvidence for 'quantum computing':\nMarco Cerezo [EVIDENCE_BASED]: Title: Variational quantum algorithms\n\nEvidence for 'quantum computing':\nDmitry I. Lyakh [EVIDENCE_BASED]: This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+  "warnings": [],
+  "llm_model": "extractive-v1",
+  "claims": [
+    {
+      "text": "Aram W. Harrow [EVIDENCE_BASED]: Title: Supervised learning with quantum-enhanced feature spaces",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:2ee552853f9cdee6:10",
+          "title": "Supervised learning with quantum-enhanced feature spaces",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-0980-2",
+          "source_url": "https://doi.org/10.1038/s41586-019-0980-2",
+          "quote": "Title: Supervised learning with quantum-enhanced feature spaces",
+          "work_id": "W2798434869",
+          "faculty_id": "A5008766821"
+        }
+      ]
+    },
+    {
+      "text": "Kristel F. L. Michielsen [EVIDENCE_BASED]: This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:690ddfc535f8251f:16",
+          "title": "Quantum supremacy using a programmable superconducting processor",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-1666-5",
+          "source_url": "https://doi.org/10.1038/s41586-019-1666-5",
+          "quote": "This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+          "work_id": "W2982169647",
+          "faculty_id": "A5012093360"
+        }
+      ]
+    },
+    {
+      "text": "Eleanor Gilbert Rieffel [EVIDENCE_BASED]: This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:36499ed304eba0a4:11",
+          "title": "Quantum supremacy using a programmable superconducting processor",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-1666-5",
+          "source_url": "https://doi.org/10.1038/s41586-019-1666-5",
+          "quote": "This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+          "work_id": "W2982169647",
+          "faculty_id": "A5023002743"
+        }
+      ]
+    },
+    {
+      "text": "Maika Takita [EVIDENCE_BASED]: Title: Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:1e6f79a8b8236ea8:6",
+          "title": "Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets",
+          "year": 2017,
+          "doi": "10.1038/nature23879",
+          "source_url": "https://doi.org/10.1038/nature23879",
+          "quote": "Title: Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets",
+          "work_id": "W2755255888",
+          "faculty_id": "A5035071742"
+        }
+      ]
+    },
+    {
+      "text": "Abhinav Kandala [EVIDENCE_BASED]: Title: Supervised learning with quantum-enhanced feature spaces",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:0db0a61fc14b9bc0:7",
+          "title": "Supervised learning with quantum-enhanced feature spaces",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-0980-2",
+          "source_url": "https://doi.org/10.1038/s41586-019-0980-2",
+          "quote": "Title: Supervised learning with quantum-enhanced feature spaces",
+          "work_id": "W2798434869",
+          "faculty_id": "A5041795407"
+        }
+      ]
+    },
+    {
+      "text": "Kevin J. Satzinger [EVIDENCE_BASED]: This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:5a0d6f63318e5ef2:13",
+          "title": "Quantum supremacy using a programmable superconducting processor",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-1666-5",
+          "source_url": "https://doi.org/10.1038/s41586-019-1666-5",
+          "quote": "This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+          "work_id": "W2982169647",
+          "faculty_id": "A5055747836"
+        }
+      ]
+    },
+    {
+      "text": "Marco Cerezo [EVIDENCE_BASED]: Title: Variational quantum algorithms",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:646960d622b70ca6:5",
+          "title": "Variational quantum algorithms",
+          "year": 2021,
+          "doi": "10.1038/s42254-021-00348-9",
+          "source_url": "https://doi.org/10.1038/s42254-021-00348-9",
+          "quote": "Title: Variational quantum algorithms",
+          "work_id": "W3111162498",
+          "faculty_id": "A5074921335"
+        }
+      ]
+    },
+    {
+      "text": "Dmitry I. Lyakh [EVIDENCE_BASED]: This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:0f2aea61bc8f3a1a:9",
+          "title": "Quantum supremacy using a programmable superconducting processor",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-1666-5",
+          "source_url": "https://doi.org/10.1038/s41586-019-1666-5",
+          "quote": "This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+          "work_id": "W2982169647",
+          "faculty_id": "A5082098486"
+        }
+      ]
+    }
+  ],
+  "corpus_source": "live-openalex",
+  "corpus_profiles": 238,
+  "corpus_documents": 495,
+  "matches": [
+    {
+      "faculty_id": "A5061874000",
+      "faculty_name": "John P. Preskill",
+      "score": 0.5604698016136426,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9574692444233059,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I122411786",
+          "name": "California Institute of Technology"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum Information and Cryptography",
+        "Quantum and electron transport phenomena"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2781738013",
+          "title": "Quantum Computing in the NISQ era and beyond",
+          "year": 2018,
+          "doi": "10.22331/q-2018-08-06-79",
+          "citation_url": "https://doi.org/10.22331/q-2018-08-06-79"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Quantum Computing in the NISQ era and beyond\n\nAbstract: Noisy Intermediate-Scale Quantum (NISQ) technology will be available in the near future.",
+          "title": "Quantum Computing in the NISQ era and beyond",
+          "year": 2018,
+          "doi": "10.22331/q-2018-08-06-79",
+          "source_url": "https://doi.org/10.22331/q-2018-08-06-79",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2781738013",
+          "doc_id": "publication:d9de4f4f489098b2"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5061874000 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 1.0,
+          "weight": 0.9,
+          "contribution": 0.9,
+          "explanation": "retrieved publications of A5061874000 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5061874000 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 1.0,
+          "weight": 0.6,
+          "contribution": 0.6,
+          "explanation": "retrieved publications of A5061874000 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.6597539553864471,
+          "weight": 0.3,
+          "contribution": 0.1979261866159341,
+          "explanation": "recency of supporting publications for A5061874000"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5061874000"
+        },
+        {
+          "name": "citations",
+          "value": 1.0,
+          "weight": 0.2,
+          "contribution": 0.2,
+          "explanation": "citations to supporting publications for A5061874000"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5060720028",
+      "faculty_name": "Roger A. Grimes",
+      "score": 0.5545445232347729,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9473468938594036,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I55486353",
+          "name": "Reed College"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Quantum Computing Algorithms and Architecture"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2036595722",
+          "title": "Introduction to Quantum Mechanics",
+          "year": 2019,
+          "doi": "10.1002/9781119618232.ch1",
+          "citation_url": "https://doi.org/10.1002/9781119618232.ch1"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Introduction to Quantum Mechanics\n\nAbstract: This chapter discusses quantum mechanics basics, concentrating on the topics that relate particularly to quantum computing.",
+          "title": "Introduction to Quantum Mechanics",
+          "year": 2019,
+          "doi": "10.1002/9781119618232.ch1",
+          "source_url": "https://doi.org/10.1002/9781119618232.ch1",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2036595722",
+          "doc_id": "publication:f9f8b12f74210763"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5060720028 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.9841269841269841,
+          "weight": 0.9,
+          "contribution": 0.8857142857142857,
+          "explanation": "retrieved publications of A5060720028 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5060720028 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9841269841269841,
+          "weight": 0.6,
+          "contribution": 0.5904761904761904,
+          "explanation": "retrieved publications of A5060720028 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.757858283255199,
+          "weight": 0.3,
+          "contribution": 0.2273574849765597,
+          "explanation": "recency of supporting publications for A5060720028"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5060720028"
+        },
+        {
+          "name": "citations",
+          "value": 0.8504229204776642,
+          "weight": 0.2,
+          "contribution": 0.17008458409553284,
+          "explanation": "citations to supporting publications for A5060720028"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5074921335",
+      "faculty_name": "Marco Cerezo",
+      "score": 0.5269921605575635,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9002782742858375,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I1343871089",
+          "name": "Los Alamos National Laboratory"
+        },
+        {
+          "id": "I4210151696",
+          "name": "Quantum Science Center"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum Information and Cryptography",
+        "Quantum-Dot Cellular Automata"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W3111162498",
+          "title": "Variational quantum algorithms",
+          "year": 2021,
+          "doi": "10.1038/s42254-021-00348-9",
+          "citation_url": "https://doi.org/10.1038/s42254-021-00348-9"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Variational quantum algorithms",
+          "title": "Variational quantum algorithms",
+          "year": 2021,
+          "doi": "10.1038/s42254-021-00348-9",
+          "source_url": "https://doi.org/10.1038/s42254-021-00348-9",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W3111162498",
+          "doc_id": "publication:646960d622b70ca6"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5074921335 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8549718574108819,
+          "weight": 0.9,
+          "contribution": 0.7694746716697937,
+          "explanation": "retrieved publications of A5074921335 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5074921335 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8549718574108819,
+          "weight": 0.6,
+          "contribution": 0.5129831144465291,
+          "explanation": "retrieved publications of A5074921335 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5074921335"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5074921335"
+        },
+        {
+          "name": "citations",
+          "value": 0.891050360848436,
+          "weight": 0.2,
+          "contribution": 0.1782100721696872,
+          "explanation": "citations to supporting publications for A5074921335"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5082098486",
+      "faculty_name": "Dmitry I. Lyakh",
+      "score": 0.49910522926294154,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8526380999908584,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I1289243028",
+          "name": "Oak Ridge National Laboratory"
+        },
+        {
+          "id": "I4390039245",
+          "name": "Oak Ridge Leadership Computing Facility"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum Information and Cryptography",
+        "Quantum many-body systems"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2982169647",
+          "title": "Quantum supremacy using a programmable superconducting processor",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-1666-5",
+          "citation_url": "https://doi.org/10.1038/s41586-019-1666-5"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+          "title": "Quantum supremacy using a programmable superconducting processor",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-1666-5",
+          "source_url": "https://doi.org/10.1038/s41586-019-1666-5",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2982169647",
+          "doc_id": "publication:0f2aea61bc8f3a1a"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5082098486 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8141622340425533,
+          "weight": 0.9,
+          "contribution": 0.7327460106382979,
+          "explanation": "retrieved publications of A5082098486 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5082098486 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8141622340425533,
+          "weight": 0.6,
+          "contribution": 0.48849734042553195,
+          "explanation": "retrieved publications of A5082098486 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.757858283255199,
+          "weight": 0.3,
+          "contribution": 0.2273574849765597,
+          "explanation": "recency of supporting publications for A5082098486"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5082098486"
+        },
+        {
+          "name": "citations",
+          "value": 0.988653019688353,
+          "weight": 0.2,
+          "contribution": 0.1977306039376706,
+          "explanation": "citations to supporting publications for A5082098486"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5041795407",
+      "faculty_name": "Abhinav Kandala",
+      "score": 0.4986188568627045,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8518072138071202,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I1341412227",
+          "name": "IBM (United States)"
+        },
+        {
+          "id": "I4210114115",
+          "name": "IBM Research - Thomas J. Watson Research Center"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum Information and Cryptography",
+        "Quantum-Dot Cellular Automata"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2798434869",
+          "title": "Supervised learning with quantum-enhanced feature spaces",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-0980-2",
+          "citation_url": "https://doi.org/10.1038/s41586-019-0980-2"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Supervised learning with quantum-enhanced feature spaces",
+          "title": "Supervised learning with quantum-enhanced feature spaces",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-0980-2",
+          "source_url": "https://doi.org/10.1038/s41586-019-0980-2",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2798434869",
+          "doc_id": "publication:0db0a61fc14b9bc0"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5041795407 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.829376328844791,
+          "weight": 0.9,
+          "contribution": 0.7464386959603119,
+          "explanation": "retrieved publications of A5041795407 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5041795407 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.829376328844791,
+          "weight": 0.6,
+          "contribution": 0.49762579730687456,
+          "explanation": "retrieved publications of A5041795407 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.757858283255199,
+          "weight": 0.3,
+          "contribution": 0.2273574849765597,
+          "explanation": "recency of supporting publications for A5041795407"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5041795407"
+        },
+        {
+          "name": "citations",
+          "value": 0.8645766744667098,
+          "weight": 0.2,
+          "contribution": 0.172915334893342,
+          "explanation": "citations to supporting publications for A5041795407"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5035071742",
+      "faculty_name": "Maika Takita",
+      "score": 0.4949279752569541,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8455019577306299,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I1341412227",
+          "name": "IBM (United States)"
+        },
+        {
+          "id": "I4210114115",
+          "name": "IBM Research - Thomas J. Watson Research Center"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum Information and Cryptography",
+        "Quantum-Dot Cellular Automata"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2755255888",
+          "title": "Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets",
+          "year": 2017,
+          "doi": "10.1038/nature23879",
+          "citation_url": "https://doi.org/10.1038/nature23879"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets",
+          "title": "Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets",
+          "year": 2017,
+          "doi": "10.1038/nature23879",
+          "source_url": "https://doi.org/10.1038/nature23879",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2755255888",
+          "doc_id": "publication:1e6f79a8b8236ea8"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5035071742 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8534226190476191,
+          "weight": 0.9,
+          "contribution": 0.7680803571428572,
+          "explanation": "retrieved publications of A5035071742 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5035071742 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8534226190476191,
+          "weight": 0.6,
+          "contribution": 0.5120535714285714,
+          "explanation": "retrieved publications of A5035071742 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.5743491774985174,
+          "weight": 0.3,
+          "contribution": 0.17230475324955521,
+          "explanation": "recency of supporting publications for A5035071742"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5035071742"
+        },
+        {
+          "name": "citations",
+          "value": 0.8838300836626373,
+          "weight": 0.2,
+          "contribution": 0.17676601673252745,
+          "explanation": "citations to supporting publications for A5035071742"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5023002743",
+      "faculty_name": "Eleanor Gilbert Rieffel",
+      "score": 0.49386529373142585,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8436865434578524,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I1280536761",
+          "name": "Ames Research Center"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum Information and Cryptography",
+        "Quantum many-body systems"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2982169647",
+          "title": "Quantum supremacy using a programmable superconducting processor",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-1666-5",
+          "citation_url": "https://doi.org/10.1038/s41586-019-1666-5"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+          "title": "Quantum supremacy using a programmable superconducting processor",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-1666-5",
+          "source_url": "https://doi.org/10.1038/s41586-019-1666-5",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2982169647",
+          "doc_id": "publication:36499ed304eba0a4"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5023002743 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.7998397435897435,
+          "weight": 0.9,
+          "contribution": 0.7198557692307692,
+          "explanation": "retrieved publications of A5023002743 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5023002743 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.7998397435897435,
+          "weight": 0.6,
+          "contribution": 0.47990384615384607,
+          "explanation": "retrieved publications of A5023002743 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.757858283255199,
+          "weight": 0.3,
+          "contribution": 0.2273574849765597,
+          "explanation": "recency of supporting publications for A5023002743"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5023002743"
+        },
+        {
+          "name": "citations",
+          "value": 0.988653019688353,
+          "weight": 0.2,
+          "contribution": 0.1977306039376706,
+          "explanation": "citations to supporting publications for A5023002743"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5055747836",
+      "faculty_name": "Kevin J. Satzinger",
+      "score": 0.4900036553069888,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8370895778161058,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I1291425158",
+          "name": "Google (United States)"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum Information and Cryptography",
+        "Quantum many-body systems"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2982169647",
+          "title": "Quantum supremacy using a programmable superconducting processor",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-1666-5",
+          "citation_url": "https://doi.org/10.1038/s41586-019-1666-5"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+          "title": "Quantum supremacy using a programmable superconducting processor",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-1666-5",
+          "source_url": "https://doi.org/10.1038/s41586-019-1666-5",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2982169647",
+          "doc_id": "publication:5a0d6f63318e5ef2"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5055747836 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.7892845985629491,
+          "weight": 0.9,
+          "contribution": 0.7103561387066541,
+          "explanation": "retrieved publications of A5055747836 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5055747836 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.7892845985629491,
+          "weight": 0.6,
+          "contribution": 0.4735707591377694,
+          "explanation": "retrieved publications of A5055747836 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.757858283255199,
+          "weight": 0.3,
+          "contribution": 0.2273574849765597,
+          "explanation": "recency of supporting publications for A5055747836"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5055747836"
+        },
+        {
+          "name": "citations",
+          "value": 0.988653019688353,
+          "weight": 0.2,
+          "contribution": 0.1977306039376706,
+          "explanation": "citations to supporting publications for A5055747836"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5008766821",
+      "faculty_name": "Aram W. Harrow",
+      "score": 0.48835639533270797,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8342755086933761,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I63966007",
+          "name": "Massachusetts Institute of Technology"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum Information and Cryptography",
+        "Quantum-Dot Cellular Automata"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2798434869",
+          "title": "Supervised learning with quantum-enhanced feature spaces",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-0980-2",
+          "citation_url": "https://doi.org/10.1038/s41586-019-0980-2"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Supervised learning with quantum-enhanced feature spaces",
+          "title": "Supervised learning with quantum-enhanced feature spaces",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-0980-2",
+          "source_url": "https://doi.org/10.1038/s41586-019-0980-2",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2798434869",
+          "doc_id": "publication:2ee552853f9cdee6"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5008766821 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8013256006628005,
+          "weight": 0.9,
+          "contribution": 0.7211930405965205,
+          "explanation": "retrieved publications of A5008766821 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5008766821 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8013256006628005,
+          "weight": 0.6,
+          "contribution": 0.4807953603976802,
+          "explanation": "retrieved publications of A5008766821 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.757858283255199,
+          "weight": 0.3,
+          "contribution": 0.2273574849765597,
+          "explanation": "recency of supporting publications for A5008766821"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5008766821"
+        },
+        {
+          "name": "citations",
+          "value": 0.8645766744667098,
+          "weight": 0.2,
+          "contribution": 0.172915334893342,
+          "explanation": "citations to supporting publications for A5008766821"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5012093360",
+      "faculty_name": "Kristel F. L. Michielsen",
+      "score": 0.4862457891655772,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8306698898245277,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I171892758",
+          "name": "Forschungszentrum Jülich"
+        },
+        {
+          "id": "I4405269544",
+          "name": "Jülich Supercomputing Centre"
+        },
+        {
+          "id": "I887968799",
+          "name": "RWTH Aachen University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum Information and Cryptography",
+        "Quantum many-body systems"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2982169647",
+          "title": "Quantum supremacy using a programmable superconducting processor",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-1666-5",
+          "citation_url": "https://doi.org/10.1038/s41586-019-1666-5"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "This dramatic increase in speed compared to all known classical algorithms is an experimental realization of quantum supremacy8–14 for this specific computational task, heralding a much-anticipated computing paradigm.",
+          "title": "Quantum supremacy using a programmable superconducting processor",
+          "year": 2019,
+          "doi": "10.1038/s41586-019-1666-5",
+          "source_url": "https://doi.org/10.1038/s41586-019-1666-5",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2982169647",
+          "doc_id": "publication:690ddfc535f8251f"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5012093360 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.779013097776424,
+          "weight": 0.9,
+          "contribution": 0.7011117879987816,
+          "explanation": "retrieved publications of A5012093360 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5012093360 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.779013097776424,
+          "weight": 0.6,
+          "contribution": 0.4674078586658544,
+          "explanation": "retrieved publications of A5012093360 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.757858283255199,
+          "weight": 0.3,
+          "contribution": 0.2273574849765597,
+          "explanation": "recency of supporting publications for A5012093360"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5012093360"
+        },
+        {
+          "name": "citations",
+          "value": 0.988653019688353,
+          "weight": 0.2,
+          "contribution": 0.1977306039376706,
+          "explanation": "citations to supporting publications for A5012093360"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    }
+  ],
+  "discovery": {
+    "provider": "openalex",
+    "cached": false,
+    "works_retrieved": 50,
+    "api_calls": 1,
+    "scope_institutions": [],
+    "crossref_checked": 50,
+    "crossref_verified": 8,
+    "crossref_enriched": 0,
+    "crossref_mismatched": 0,
+    "query": "quantum computing"
+  }
+}

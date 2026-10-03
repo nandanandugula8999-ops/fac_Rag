@@ -1,0 +1,195 @@
+{
+  "provenance": "Actual API response snapshots, not frontend fallback data. An insufficient_evidence response alone cannot distinguish an upstream service error from genuine lack of evidence.",
+  "captured_at_utc": "2026-10-03T04:44:27.695028+00:00",
+  "records": [
+    {
+      "work_id": "W2165698076",
+      "title": "A Survey on Transfer Learning",
+      "year": 2009,
+      "doi": "10.1109/tkde.2009.191",
+      "citation_url": "https://doi.org/10.1109/tkde.2009.191"
+    },
+    {
+      "work_id": "W1570448133",
+      "title": "Data Mining: Practical Machine Learning Tools and Techniques",
+      "year": 2011,
+      "doi": "10.1016/c2009-0-19715-5",
+      "citation_url": "https://doi.org/10.1016/c2009-0-19715-5"
+    },
+    {
+      "work_id": "W2163922914",
+      "title": "Representation Learning: A Review and New Perspectives",
+      "year": 2013,
+      "doi": "10.1109/tpami.2013.50",
+      "citation_url": "https://doi.org/10.1109/tpami.2013.50"
+    },
+    {
+      "work_id": "W2133564696",
+      "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+      "year": 2014,
+      "doi": "10.48550/arxiv.1409.0473",
+      "citation_url": "https://doi.org/10.48550/arxiv.1409.0473"
+    },
+    {
+      "work_id": "W2111072639",
+      "title": "Extreme learning machine: Theory and applications",
+      "year": 2006,
+      "doi": "10.1016/j.neucom.2005.12.126",
+      "citation_url": "https://doi.org/10.1016/j.neucom.2005.12.126"
+    },
+    {
+      "work_id": "W2118877769",
+      "title": "An Iterative Image Registration Technique with an Application to Stereo Vision",
+      "year": 1981,
+      "doi": null,
+      "citation_url": "https://openalex.org/W2118877769"
+    },
+    {
+      "work_id": "W2167667767",
+      "title": "A flexible new technique for camera calibration",
+      "year": 2000,
+      "doi": "10.1109/34.888718",
+      "citation_url": "https://doi.org/10.1109/34.888718"
+    },
+    {
+      "work_id": "W2033819227",
+      "title": "Multiple View Geometry in Computer Vision",
+      "year": 2004,
+      "doi": "10.1017/cbo9780511811685",
+      "citation_url": "https://doi.org/10.1017/cbo9780511811685"
+    },
+    {
+      "work_id": "W4312443924",
+      "title": "A ConvNet for the 2020s",
+      "year": 2022,
+      "doi": "10.1109/cvpr52688.2022.01167",
+      "citation_url": "https://doi.org/10.1109/cvpr52688.2022.01167"
+    },
+    {
+      "work_id": "W4362704894",
+      "title": "Artificial intelligence for cybersecurity: Literature review and future research directions",
+      "year": 2023,
+      "doi": "10.1016/j.inffus.2023.101804",
+      "citation_url": "https://doi.org/10.1016/j.inffus.2023.101804"
+    },
+    {
+      "work_id": "W4385452929",
+      "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+      "year": 2023,
+      "doi": "10.1109/access.2023.3300381",
+      "citation_url": "https://doi.org/10.1109/access.2023.3300381"
+    },
+    {
+      "work_id": "W3038955483",
+      "title": "Cybersecurity data science: an overview from machine learning perspective",
+      "year": 2020,
+      "doi": "10.1186/s40537-020-00318-5",
+      "citation_url": "https://doi.org/10.1186/s40537-020-00318-5"
+    },
+    {
+      "work_id": "W2781738013",
+      "title": "Quantum Computing in the NISQ era and beyond",
+      "year": 2018,
+      "doi": "10.22331/q-2018-08-06-79",
+      "citation_url": "https://doi.org/10.22331/q-2018-08-06-79"
+    },
+    {
+      "work_id": "W2036595722",
+      "title": "Introduction to Quantum Mechanics",
+      "year": 2019,
+      "doi": "10.1002/9781119618232.ch1",
+      "citation_url": "https://doi.org/10.1002/9781119618232.ch1"
+    },
+    {
+      "work_id": "W3111162498",
+      "title": "Variational quantum algorithms",
+      "year": 2021,
+      "doi": "10.1038/s42254-021-00348-9",
+      "citation_url": "https://doi.org/10.1038/s42254-021-00348-9"
+    },
+    {
+      "work_id": "W2982169647",
+      "title": "Quantum supremacy using a programmable superconducting processor",
+      "year": 2019,
+      "doi": "10.1038/s41586-019-1666-5",
+      "citation_url": "https://doi.org/10.1038/s41586-019-1666-5"
+    },
+    {
+      "work_id": "W2798434869",
+      "title": "Supervised learning with quantum-enhanced feature spaces",
+      "year": 2019,
+      "doi": "10.1038/s41586-019-0980-2",
+      "citation_url": "https://doi.org/10.1038/s41586-019-0980-2"
+    },
+    {
+      "work_id": "W2755255888",
+      "title": "Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets",
+      "year": 2017,
+      "doi": "10.1038/nature23879",
+      "citation_url": "https://doi.org/10.1038/nature23879"
+    },
+    {
+      "work_id": "W2979826702",
+      "title": "Transformers: State-of-the-Art Natural Language Processing",
+      "year": 2020,
+      "doi": "10.18653/v1/2020.emnlp-demos.6",
+      "citation_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6"
+    },
+    {
+      "work_id": "W1521626219",
+      "title": "Natural language processing with Python",
+      "year": 2009,
+      "doi": null,
+      "citation_url": "https://openalex.org/W1521626219"
+    },
+    {
+      "work_id": "W2115579991",
+      "title": "Vision meets robotics: The KITTI dataset",
+      "year": 2013,
+      "doi": "10.1177/0278364913491297",
+      "citation_url": "https://doi.org/10.1177/0278364913491297"
+    },
+    {
+      "work_id": "W2150066425",
+      "title": "Are we ready for autonomous driving? The KITTI vision benchmark suite",
+      "year": 2012,
+      "doi": "10.1109/cvpr.2012.6248074",
+      "citation_url": "https://doi.org/10.1109/cvpr.2012.6248074"
+    },
+    {
+      "work_id": "W2152864241",
+      "title": "3D is here: Point Cloud Library (PCL)",
+      "year": 2011,
+      "doi": "10.1109/icra.2011.5980567",
+      "citation_url": "https://doi.org/10.1109/icra.2011.5980567"
+    },
+    {
+      "work_id": "W2336416123",
+      "title": "Probabilistic robotics",
+      "year": 2002,
+      "doi": "10.1145/504729.504754",
+      "citation_url": "https://doi.org/10.1145/504729.504754"
+    },
+    {
+      "work_id": "W2745859992",
+      "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+      "year": 2018,
+      "doi": "10.1109/tro.2018.2853729",
+      "citation_url": "https://doi.org/10.1109/tro.2018.2853729"
+    },
+    {
+      "work_id": "W3152893301",
+      "title": "Graph neural networks: A review of methods and applications",
+      "year": 2020,
+      "doi": "10.1016/j.aiopen.2021.01.001",
+      "citation_url": "https://doi.org/10.1016/j.aiopen.2021.01.001"
+    },
+    {
+      "work_id": "W2985331920",
+      "title": "Graph convolutional networks: a comprehensive review",
+      "year": 2019,
+      "doi": "10.1186/s40649-019-0069-y",
+      "citation_url": "https://doi.org/10.1186/s40649-019-0069-y"
+    }
+  ]
+}

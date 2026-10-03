@@ -1,0 +1,1114 @@
+{
+  "query": "machine learning",
+  "status": "ok",
+  "verified": true,
+  "answer_text": "Evidence for 'machine learning':\nIan H. Witten [EVIDENCE_BASED]: Title: Data Mining: Practical Machine Learning Tools and Techniques\n\nEvidence for 'machine learning':\nMark A. Hall [EVIDENCE_BASED]: Title: Data Mining: Practical Machine Learning Tools and Techniques\n\nEvidence for 'machine learning':\nSinno Jialin Pan [EVIDENCE_BASED]: Title: A Survey on Transfer Learning\n\nAbstract: A major assumption in many machine learning and data mining algorithms is that the training and future data must be in the same feature space and have the same distribution.\n\nEvidence for 'machine learning':\nYoshua Bengio [EVIDENCE_BASED]: Title: Representation Learning: A Review and New Perspectives\n\nAbstract: The success of machine learning algorithms generally depends on data representation, and we hypothesize that this is because different representations can entangle and hide more or less the different explanatory factors of variation behind the data.\n\nEvidence for 'machine learning':\nKyunghyun Cho [EVIDENCE_BASED]: Title: Neural Machine Translation by Jointly Learning to Align and Translate\n\nAbstract: Neural machine translation is a recently proposed approach to machine translation.\n\nEvidence for 'machine learning':\nQiang Yang [EVIDENCE_BASED]: Title: A Survey on Transfer Learning\n\nAbstract: A major assumption in many machine learning and data mining algorithms is that the training and future data must be in the same feature space and have the same distribution.\n\nEvidence for 'machine learning':\nChee‐Kheong Siew [EVIDENCE_BASED]: Title: Extreme learning machine: Theory and applications\n\nEvidence for 'machine learning':\nAaron C. Courville [EVIDENCE_BASED]: Title: Representation Learning: A Review and New Perspectives\n\nAbstract: The success of machine learning algorithms generally depends on data representation, and we hypothesize that this is because different representations can entangle and hide more or less the different explanatory factors of variation behind the data.",
+  "warnings": [],
+  "llm_model": "extractive-v1",
+  "claims": [
+    {
+      "text": "Ian H. Witten [EVIDENCE_BASED]: Title: Data Mining: Practical Machine Learning Tools and Techniques",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:2b135cadd2877d3c:4",
+          "title": "Data Mining: Practical Machine Learning Tools and Techniques",
+          "year": 2011,
+          "doi": "10.1016/c2009-0-19715-5",
+          "source_url": "https://doi.org/10.1016/c2009-0-19715-5",
+          "quote": "Title: Data Mining: Practical Machine Learning Tools and Techniques",
+          "work_id": "W1570448133",
+          "faculty_id": "A5045934263"
+        }
+      ]
+    },
+    {
+      "text": "Mark A. Hall [EVIDENCE_BASED]: Title: Data Mining: Practical Machine Learning Tools and Techniques",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:113655f3b3faf510:3",
+          "title": "Data Mining: Practical Machine Learning Tools and Techniques",
+          "year": 2011,
+          "doi": "10.1016/c2009-0-19715-5",
+          "source_url": "https://doi.org/10.1016/c2009-0-19715-5",
+          "quote": "Title: Data Mining: Practical Machine Learning Tools and Techniques",
+          "work_id": "W1570448133",
+          "faculty_id": "A5065290010"
+        }
+      ]
+    },
+    {
+      "text": "Sinno Jialin Pan [EVIDENCE_BASED]: Title: A Survey on Transfer Learning\n\nAbstract: A major assumption in many machine learning and data mining algorithms is that the training and future data must be in the same feature space and have the same distribution.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:44a7359106322895:2",
+          "title": "A Survey on Transfer Learning",
+          "year": 2009,
+          "doi": "10.1109/tkde.2009.191",
+          "source_url": "https://doi.org/10.1109/tkde.2009.191",
+          "quote": "Title: A Survey on Transfer Learning\n\nAbstract: A major assumption in many machine learning and data mining algorithms is that the training and future data must be in the same feature space and have the same distribution.",
+          "work_id": "W2165698076",
+          "faculty_id": "A5082984558"
+        }
+      ]
+    },
+    {
+      "text": "Yoshua Bengio [EVIDENCE_BASED]: Title: Representation Learning: A Review and New Perspectives\n\nAbstract: The success of machine learning algorithms generally depends on data representation, and we hypothesize that this is because different representations can entangle and hide more or less the different explanatory factors of variation behind the data.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:3ae78ce0cadc9820:9",
+          "title": "Representation Learning: A Review and New Perspectives",
+          "year": 2013,
+          "doi": "10.1109/tpami.2013.50",
+          "source_url": "https://doi.org/10.1109/tpami.2013.50",
+          "quote": "Title: Representation Learning: A Review and New Perspectives\n\nAbstract: The success of machine learning algorithms generally depends on data representation, and we hypothesize that this is because different representations can entangle and hide more or less the different explanatory factors of variation behind the data.",
+          "work_id": "W2163922914",
+          "faculty_id": "A5086198262"
+        }
+      ]
+    },
+    {
+      "text": "Kyunghyun Cho [EVIDENCE_BASED]: Title: Neural Machine Translation by Jointly Learning to Align and Translate\n\nAbstract: Neural machine translation is a recently proposed approach to machine translation.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:34915b1bd1a0801a:19",
+          "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+          "year": 2014,
+          "doi": "10.48550/arxiv.1409.0473",
+          "source_url": "https://doi.org/10.48550/arxiv.1409.0473",
+          "quote": "Title: Neural Machine Translation by Jointly Learning to Align and Translate\n\nAbstract: Neural machine translation is a recently proposed approach to machine translation.",
+          "work_id": "W2133564696",
+          "faculty_id": "A5091175785"
+        }
+      ]
+    },
+    {
+      "text": "Qiang Yang [EVIDENCE_BASED]: Title: A Survey on Transfer Learning\n\nAbstract: A major assumption in many machine learning and data mining algorithms is that the training and future data must be in the same feature space and have the same distribution.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:2b50f245b5c00dc8:1",
+          "title": "A Survey on Transfer Learning",
+          "year": 2009,
+          "doi": "10.1109/tkde.2009.191",
+          "source_url": "https://doi.org/10.1109/tkde.2009.191",
+          "quote": "Title: A Survey on Transfer Learning\n\nAbstract: A major assumption in many machine learning and data mining algorithms is that the training and future data must be in the same feature space and have the same distribution.",
+          "work_id": "W2165698076",
+          "faculty_id": "A5100636286"
+        }
+      ]
+    },
+    {
+      "text": "Chee‐Kheong Siew [EVIDENCE_BASED]: Title: Extreme learning machine: Theory and applications",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:2d235454aab9339c:10",
+          "title": "Extreme learning machine: Theory and applications",
+          "year": 2006,
+          "doi": "10.1016/j.neucom.2005.12.126",
+          "source_url": "https://doi.org/10.1016/j.neucom.2005.12.126",
+          "quote": "Title: Extreme learning machine: Theory and applications",
+          "work_id": "W2111072639",
+          "faculty_id": "A5109574172"
+        }
+      ]
+    },
+    {
+      "text": "Aaron C. Courville [EVIDENCE_BASED]: Title: Representation Learning: A Review and New Perspectives\n\nAbstract: The success of machine learning algorithms generally depends on data representation, and we hypothesize that this is because different representations can entangle and hide more or less the different explanatory factors of variation behind the data.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:4260f41cfe375bdd:12",
+          "title": "Representation Learning: A Review and New Perspectives",
+          "year": 2013,
+          "doi": "10.1109/tpami.2013.50",
+          "source_url": "https://doi.org/10.1109/tpami.2013.50",
+          "quote": "Title: Representation Learning: A Review and New Perspectives\n\nAbstract: The success of machine learning algorithms generally depends on data representation, and we hypothesize that this is because different representations can entangle and hide more or less the different explanatory factors of variation behind the data.",
+          "work_id": "W2163922914",
+          "faculty_id": "A5112608251"
+        }
+      ]
+    }
+  ],
+  "corpus_source": "live-openalex",
+  "corpus_profiles": 138,
+  "corpus_documents": 294,
+  "matches": [
+    {
+      "faculty_id": "A5100636286",
+      "faculty_name": "Qiang Yang",
+      "score": 0.5444647949013877,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9301273579565372,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I200769079",
+          "name": "Hong Kong University of Science and Technology"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Domain Adaptation and Few-Shot Learning",
+        "Machine Learning and Algorithms",
+        "Machine Learning and Data Classification"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2165698076",
+          "title": "A Survey on Transfer Learning",
+          "year": 2009,
+          "doi": "10.1109/tkde.2009.191",
+          "citation_url": "https://doi.org/10.1109/tkde.2009.191"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: A Survey on Transfer Learning\n\nAbstract: A major assumption in many machine learning and data mining algorithms is that the training and future data must be in the same feature space and have the same distribution.",
+          "title": "A Survey on Transfer Learning",
+          "year": 2009,
+          "doi": "10.1109/tkde.2009.191",
+          "source_url": "https://doi.org/10.1109/tkde.2009.191",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2165698076",
+          "doc_id": "publication:2b50f245b5c00dc8"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5100636286 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 1.0,
+          "weight": 0.9,
+          "contribution": 0.9,
+          "explanation": "retrieved publications of A5100636286 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5100636286 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 1.0,
+          "weight": 0.6,
+          "contribution": 0.6,
+          "explanation": "retrieved publications of A5100636286 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.5,
+          "weight": 0.3,
+          "contribution": 0.15,
+          "explanation": "recency of supporting publications for A5100636286"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5100636286"
+        },
+        {
+          "name": "citations",
+          "value": 0.9115282954784462,
+          "weight": 0.2,
+          "contribution": 0.18230565909568924,
+          "explanation": "citations to supporting publications for A5100636286"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5082984558",
+      "faculty_name": "Sinno Jialin Pan",
+      "score": 0.5360333522291897,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9157236433915322,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I200769079",
+          "name": "Hong Kong University of Science and Technology"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Domain Adaptation and Few-Shot Learning",
+        "Machine Learning and Algorithms",
+        "Machine Learning and Data Classification"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2165698076",
+          "title": "A Survey on Transfer Learning",
+          "year": 2009,
+          "doi": "10.1109/tkde.2009.191",
+          "citation_url": "https://doi.org/10.1109/tkde.2009.191"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: A Survey on Transfer Learning\n\nAbstract: A major assumption in many machine learning and data mining algorithms is that the training and future data must be in the same feature space and have the same distribution.",
+          "title": "A Survey on Transfer Learning",
+          "year": 2009,
+          "doi": "10.1109/tkde.2009.191",
+          "source_url": "https://doi.org/10.1109/tkde.2009.191",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2165698076",
+          "doc_id": "publication:44a7359106322895"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5082984558 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.976954056695992,
+          "weight": 0.9,
+          "contribution": 0.8792586510263928,
+          "explanation": "retrieved publications of A5082984558 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5082984558 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.976954056695992,
+          "weight": 0.6,
+          "contribution": 0.5861724340175952,
+          "explanation": "retrieved publications of A5082984558 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.5,
+          "weight": 0.3,
+          "contribution": 0.15,
+          "explanation": "recency of supporting publications for A5082984558"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5082984558"
+        },
+        {
+          "name": "citations",
+          "value": 0.9115282954784462,
+          "weight": 0.2,
+          "contribution": 0.18230565909568924,
+          "explanation": "citations to supporting publications for A5082984558"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5065290010",
+      "faculty_name": "Mark A. Hall",
+      "score": 0.5243847630263304,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.895823970169981,
+      "inferred_score": 0.0,
+      "institutions": [],
+      "stated_topics": [],
+      "matched_topics": [
+        "Machine Learning and Data Classification"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W1570448133",
+          "title": "Data Mining: Practical Machine Learning Tools and Techniques",
+          "year": 2011,
+          "doi": "10.1016/c2009-0-19715-5",
+          "citation_url": "https://doi.org/10.1016/c2009-0-19715-5"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Data Mining: Practical Machine Learning Tools and Techniques",
+          "title": "Data Mining: Practical Machine Learning Tools and Techniques",
+          "year": 2011,
+          "doi": "10.1016/c2009-0-19715-5",
+          "source_url": "https://doi.org/10.1016/c2009-0-19715-5",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W1570448133",
+          "doc_id": "publication:113655f3b3faf510"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5065290010 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.9123206823027717,
+          "weight": 0.9,
+          "contribution": 0.8210886140724946,
+          "explanation": "retrieved publications of A5065290010 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5065290010 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9123206823027717,
+          "weight": 0.6,
+          "contribution": 0.547392409381663,
+          "explanation": "retrieved publications of A5065290010 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.6597539553864471,
+          "weight": 0.3,
+          "contribution": 0.1979261866159341,
+          "explanation": "recency of supporting publications for A5065290010"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5065290010"
+        },
+        {
+          "name": "citations",
+          "value": 0.9178515916893145,
+          "weight": 0.2,
+          "contribution": 0.18357031833786291,
+          "explanation": "citations to supporting publications for A5065290010"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5045934263",
+      "faculty_name": "Ian H. Witten",
+      "score": 0.5195777237414337,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8876119447249492,
+      "inferred_score": 0.0,
+      "institutions": [],
+      "stated_topics": [],
+      "matched_topics": [
+        "Machine Learning and Data Classification"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W1570448133",
+          "title": "Data Mining: Practical Machine Learning Tools and Techniques",
+          "year": 2011,
+          "doi": "10.1016/c2009-0-19715-5",
+          "citation_url": "https://doi.org/10.1016/c2009-0-19715-5"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Data Mining: Practical Machine Learning Tools and Techniques",
+          "title": "Data Mining: Practical Machine Learning Tools and Techniques",
+          "year": 2011,
+          "doi": "10.1016/c2009-0-19715-5",
+          "source_url": "https://doi.org/10.1016/c2009-0-19715-5",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W1570448133",
+          "doc_id": "publication:2b135cadd2877d3c"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5045934263 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8991814415907207,
+          "weight": 0.9,
+          "contribution": 0.8092632974316486,
+          "explanation": "retrieved publications of A5045934263 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5045934263 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8991814415907207,
+          "weight": 0.6,
+          "contribution": 0.5395088649544324,
+          "explanation": "retrieved publications of A5045934263 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.6597539553864471,
+          "weight": 0.3,
+          "contribution": 0.1979261866159341,
+          "explanation": "recency of supporting publications for A5045934263"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5045934263"
+        },
+        {
+          "name": "citations",
+          "value": 0.9178515916893145,
+          "weight": 0.2,
+          "contribution": 0.18357031833786291,
+          "explanation": "citations to supporting publications for A5045934263"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5059992863",
+      "faculty_name": "Eibe Frank",
+      "score": 0.5149072422828279,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8796332055664976,
+      "inferred_score": 0.0,
+      "institutions": [],
+      "stated_topics": [],
+      "matched_topics": [
+        "Machine Learning and Data Classification"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W1570448133",
+          "title": "Data Mining: Practical Machine Learning Tools and Techniques",
+          "year": 2011,
+          "doi": "10.1016/c2009-0-19715-5",
+          "citation_url": "https://doi.org/10.1016/c2009-0-19715-5"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Data Mining: Practical Machine Learning Tools and Techniques",
+          "title": "Data Mining: Practical Machine Learning Tools and Techniques",
+          "year": 2011,
+          "doi": "10.1016/c2009-0-19715-5",
+          "source_url": "https://doi.org/10.1016/c2009-0-19715-5",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W1570448133",
+          "doc_id": "publication:a183d5bfcb640ee6"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5059992863 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.886415458937198,
+          "weight": 0.9,
+          "contribution": 0.7977739130434782,
+          "explanation": "retrieved publications of A5059992863 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5059992863 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.886415458937198,
+          "weight": 0.6,
+          "contribution": 0.5318492753623187,
+          "explanation": "retrieved publications of A5059992863 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.6597539553864471,
+          "weight": 0.3,
+          "contribution": 0.1979261866159341,
+          "explanation": "recency of supporting publications for A5059992863"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5059992863"
+        },
+        {
+          "name": "citations",
+          "value": 0.9178515916893145,
+          "weight": 0.2,
+          "contribution": 0.18357031833786291,
+          "explanation": "citations to supporting publications for A5059992863"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5086198262",
+      "faculty_name": "Yoshua Bengio",
+      "score": 0.5114922562233,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8737992710481374,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I70931966",
+          "name": "Université de Montréal"
+        },
+        {
+          "id": "I45683168",
+          "name": "Polytechnique Montréal"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2163922914",
+          "title": "Representation Learning: A Review and New Perspectives",
+          "year": 2013,
+          "doi": "10.1109/tpami.2013.50",
+          "citation_url": "https://doi.org/10.1109/tpami.2013.50"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Representation Learning: A Review and New Perspectives\n\nAbstract: The success of machine learning algorithms generally depends on data representation, and we hypothesize that this is because different representations can entangle and hide more or less the different explanatory factors of variation behind the data.",
+          "title": "Representation Learning: A Review and New Perspectives",
+          "year": 2013,
+          "doi": "10.1109/tpami.2013.50",
+          "source_url": "https://doi.org/10.1109/tpami.2013.50",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2163922914",
+          "doc_id": "publication:3ae78ce0cadc9820"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5086198262 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8427682539682539,
+          "weight": 0.9,
+          "contribution": 0.7584914285714286,
+          "explanation": "retrieved publications of A5086198262 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5086198262 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8427682539682539,
+          "weight": 0.6,
+          "contribution": 0.5056609523809523,
+          "explanation": "retrieved publications of A5086198262 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.870550563296124,
+          "weight": 0.3,
+          "contribution": 0.2611651689888372,
+          "explanation": "recency of supporting publications for A5086198262"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5086198262"
+        },
+        {
+          "name": "citations",
+          "value": 0.8590035028715578,
+          "weight": 0.2,
+          "contribution": 0.17180070057431157,
+          "explanation": "citations to supporting publications for A5086198262"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5112608251",
+      "faculty_name": "Aaron C. Courville",
+      "score": 0.5058983563091455,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8642430253614568,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I70931966",
+          "name": "Université de Montréal"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2163922914",
+          "title": "Representation Learning: A Review and New Perspectives",
+          "year": 2013,
+          "doi": "10.1109/tpami.2013.50",
+          "citation_url": "https://doi.org/10.1109/tpami.2013.50"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Representation Learning: A Review and New Perspectives\n\nAbstract: The success of machine learning algorithms generally depends on data representation, and we hypothesize that this is because different representations can entangle and hide more or less the different explanatory factors of variation behind the data.",
+          "title": "Representation Learning: A Review and New Perspectives",
+          "year": 2013,
+          "doi": "10.1109/tpami.2013.50",
+          "source_url": "https://doi.org/10.1109/tpami.2013.50",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2163922914",
+          "doc_id": "publication:4260f41cfe375bdd"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5112608251 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8274782608695651,
+          "weight": 0.9,
+          "contribution": 0.7447304347826086,
+          "explanation": "retrieved publications of A5112608251 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5112608251 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8274782608695651,
+          "weight": 0.6,
+          "contribution": 0.496486956521739,
+          "explanation": "retrieved publications of A5112608251 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.870550563296124,
+          "weight": 0.3,
+          "contribution": 0.2611651689888372,
+          "explanation": "recency of supporting publications for A5112608251"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5112608251"
+        },
+        {
+          "name": "citations",
+          "value": 0.8590035028715578,
+          "weight": 0.2,
+          "contribution": 0.17180070057431157,
+          "explanation": "citations to supporting publications for A5112608251"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5091175785",
+      "faculty_name": "Kyunghyun Cho",
+      "score": 0.5038140629556463,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8606823575492292,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I70931966",
+          "name": "Université de Montréal"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Multimodal Machine Learning Applications"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2133564696",
+          "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+          "year": 2014,
+          "doi": "10.48550/arxiv.1409.0473",
+          "citation_url": "https://doi.org/10.48550/arxiv.1409.0473"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Neural Machine Translation by Jointly Learning to Align and Translate\n\nAbstract: Neural machine translation is a recently proposed approach to machine translation.",
+          "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+          "year": 2014,
+          "doi": "10.48550/arxiv.1409.0473",
+          "source_url": "https://doi.org/10.48550/arxiv.1409.0473",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2133564696",
+          "doc_id": "publication:34915b1bd1a0801a"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5091175785 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.7949071484681852,
+          "weight": 0.9,
+          "contribution": 0.7154164336213668,
+          "explanation": "retrieved publications of A5091175785 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5091175785 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.7949071484681852,
+          "weight": 0.6,
+          "contribution": 0.47694428908091113,
+          "explanation": "retrieved publications of A5091175785 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5091175785"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5091175785"
+        },
+        {
+          "name": "citations",
+          "value": 0.866384677079359,
+          "weight": 0.2,
+          "contribution": 0.1732769354158718,
+          "explanation": "citations to supporting publications for A5091175785"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5109574172",
+      "faculty_name": "Chee‐Kheong Siew",
+      "score": 0.4694572075163128,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.801989396173701,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I172675005",
+          "name": "Nanyang Technological University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Machine Learning and ELM"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2111072639",
+          "title": "Extreme learning machine: Theory and applications",
+          "year": 2006,
+          "doi": "10.1016/j.neucom.2005.12.126",
+          "citation_url": "https://doi.org/10.1016/j.neucom.2005.12.126"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Extreme learning machine: Theory and applications",
+          "title": "Extreme learning machine: Theory and applications",
+          "year": 2006,
+          "doi": "10.1016/j.neucom.2005.12.126",
+          "source_url": "https://doi.org/10.1016/j.neucom.2005.12.126",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2111072639",
+          "doc_id": "publication:2d235454aab9339c"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5109574172 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.835997254632807,
+          "weight": 0.9,
+          "contribution": 0.7523975291695264,
+          "explanation": "retrieved publications of A5109574172 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5109574172 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.835997254632807,
+          "weight": 0.6,
+          "contribution": 0.5015983527796842,
+          "explanation": "retrieved publications of A5109574172 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.32987697769322355,
+          "weight": 0.3,
+          "contribution": 0.09896309330796706,
+          "explanation": "recency of supporting publications for A5109574172"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5109574172"
+        },
+        {
+          "name": "citations",
+          "value": 0.8590778777985231,
+          "weight": 0.2,
+          "contribution": 0.17181557555970461,
+          "explanation": "citations to supporting publications for A5109574172"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5061746912",
+      "faculty_name": "Guang-Bin Huang",
+      "score": 0.4652523313638981,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.7948060660799926,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I172675005",
+          "name": "Nanyang Technological University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Machine Learning and ELM"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2111072639",
+          "title": "Extreme learning machine: Theory and applications",
+          "year": 2006,
+          "doi": "10.1016/j.neucom.2005.12.126",
+          "citation_url": "https://doi.org/10.1016/j.neucom.2005.12.126"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Extreme learning machine: Theory and applications",
+          "title": "Extreme learning machine: Theory and applications",
+          "year": 2006,
+          "doi": "10.1016/j.neucom.2005.12.126",
+          "source_url": "https://doi.org/10.1016/j.neucom.2005.12.126",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2111072639",
+          "doc_id": "publication:77bf7e807645704c"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5061746912 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8245039264828736,
+          "weight": 0.9,
+          "contribution": 0.7420535338345863,
+          "explanation": "retrieved publications of A5061746912 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5061746912 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8245039264828736,
+          "weight": 0.6,
+          "contribution": 0.49470235588972417,
+          "explanation": "retrieved publications of A5061746912 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.32987697769322355,
+          "weight": 0.3,
+          "contribution": 0.09896309330796706,
+          "explanation": "recency of supporting publications for A5061746912"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5061746912"
+        },
+        {
+          "name": "citations",
+          "value": 0.8590778777985231,
+          "weight": 0.2,
+          "contribution": 0.17181557555970461,
+          "explanation": "citations to supporting publications for A5061746912"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    }
+  ],
+  "discovery": {
+    "provider": "openalex",
+    "cached": false,
+    "works_retrieved": 50,
+    "api_calls": 1,
+    "scope_institutions": [],
+    "crossref_checked": 44,
+    "crossref_verified": 10,
+    "crossref_enriched": 0,
+    "crossref_mismatched": 0,
+    "query": "machine learning"
+  }
+}

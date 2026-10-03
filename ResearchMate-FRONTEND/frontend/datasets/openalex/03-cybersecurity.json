@@ -1,0 +1,1113 @@
+{
+  "query": "cybersecurity",
+  "status": "ok",
+  "verified": true,
+  "answer_text": "Evidence for 'cybersecurity':\nKshitiz Aryal [EVIDENCE_BASED]: Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.\n\nEvidence for 'cybersecurity':\nMaanak Gupta [EVIDENCE_BASED]: Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.\n\nEvidence for 'cybersecurity':\nRamanpreet Kaur [EVIDENCE_BASED]: Title: Artificial intelligence for cybersecurity: Literature review and future research directions\n\nAbstract: Artificial intelligence (AI) is a powerful technology that helps cybersecurity teams automate repetitive tasks, accelerate threat detection and response, and improve the accuracy of their actions to strengthen the security posture against various security issues and cyberattacks.\n\nEvidence for 'cybersecurity':\nAlex Ng [EVIDENCE_BASED]: Title: Cybersecurity data science: an overview from machine learning perspective\n\nAbstract: Abstract In a computing context, cybersecurity is undergoing massive shifts in technology and its operations in recent days, and data science is driving the change.\n\nEvidence for 'cybersecurity':\nPaul Watters [EVIDENCE_BASED]: Title: Cybersecurity data science: an overview from machine learning perspective\n\nAbstract: Abstract In a computing context, cybersecurity is undergoing massive shifts in technology and its operations in recent days, and data science is driving the change.\n\nEvidence for 'cybersecurity':\nCharankumar Akiri [EVIDENCE_BASED]: Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.\n\nEvidence for 'cybersecurity':\nDušan Gabrijelčič [EVIDENCE_BASED]: Title: Artificial intelligence for cybersecurity: Literature review and future research directions\n\nAbstract: Artificial intelligence (AI) is a powerful technology that helps cybersecurity teams automate repetitive tasks, accelerate threat detection and response, and improve the accuracy of their actions to strengthen the security posture against various security issues and cyberattacks.\n\nEvidence for 'cybersecurity':\nEli Parker [EVIDENCE_BASED]: Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+  "warnings": [],
+  "llm_model": "extractive-v1",
+  "claims": [
+    {
+      "text": "Kshitiz Aryal [EVIDENCE_BASED]: Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:a0beccf07adda00e:12",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "source_url": "https://doi.org/10.1109/access.2023.3300381",
+          "quote": "Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+          "work_id": "W4385452929",
+          "faculty_id": "A5005398538"
+        }
+      ]
+    },
+    {
+      "text": "Maanak Gupta [EVIDENCE_BASED]: Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:ae45f19c38d01fe5:14",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "source_url": "https://doi.org/10.1109/access.2023.3300381",
+          "quote": "Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+          "work_id": "W4385452929",
+          "faculty_id": "A5047952246"
+        }
+      ]
+    },
+    {
+      "text": "Ramanpreet Kaur [EVIDENCE_BASED]: Title: Artificial intelligence for cybersecurity: Literature review and future research directions\n\nAbstract: Artificial intelligence (AI) is a powerful technology that helps cybersecurity teams automate repetitive tasks, accelerate threat detection and response, and improve the accuracy of their actions to strengthen the security posture against various security issues and cyberattacks.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:917fb3c3327c4eeb:3",
+          "title": "Artificial intelligence for cybersecurity: Literature review and future research directions",
+          "year": 2023,
+          "doi": "10.1016/j.inffus.2023.101804",
+          "source_url": "https://doi.org/10.1016/j.inffus.2023.101804",
+          "quote": "Title: Artificial intelligence for cybersecurity: Literature review and future research directions\n\nAbstract: Artificial intelligence (AI) is a powerful technology that helps cybersecurity teams automate repetitive tasks, accelerate threat detection and response, and improve the accuracy of their actions to strengthen the security posture against various security issues and cyberattacks.",
+          "work_id": "W4362704894",
+          "faculty_id": "A5057354021"
+        }
+      ]
+    },
+    {
+      "text": "Alex Ng [EVIDENCE_BASED]: Title: Cybersecurity data science: an overview from machine learning perspective\n\nAbstract: Abstract In a computing context, cybersecurity is undergoing massive shifts in technology and its operations in recent days, and data science is driving the change.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:9dcc51003962d62a:4",
+          "title": "Cybersecurity data science: an overview from machine learning perspective",
+          "year": 2020,
+          "doi": "10.1186/s40537-020-00318-5",
+          "source_url": "https://doi.org/10.1186/s40537-020-00318-5",
+          "quote": "Title: Cybersecurity data science: an overview from machine learning perspective\n\nAbstract: Abstract In a computing context, cybersecurity is undergoing massive shifts in technology and its operations in recent days, and data science is driving the change.",
+          "work_id": "W3038955483",
+          "faculty_id": "A5061811149"
+        }
+      ]
+    },
+    {
+      "text": "Paul Watters [EVIDENCE_BASED]: Title: Cybersecurity data science: an overview from machine learning perspective\n\nAbstract: Abstract In a computing context, cybersecurity is undergoing massive shifts in technology and its operations in recent days, and data science is driving the change.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:0c1719b814e61291:2",
+          "title": "Cybersecurity data science: an overview from machine learning perspective",
+          "year": 2020,
+          "doi": "10.1186/s40537-020-00318-5",
+          "source_url": "https://doi.org/10.1186/s40537-020-00318-5",
+          "quote": "Title: Cybersecurity data science: an overview from machine learning perspective\n\nAbstract: Abstract In a computing context, cybersecurity is undergoing massive shifts in technology and its operations in recent days, and data science is driving the change.",
+          "work_id": "W3038955483",
+          "faculty_id": "A5074086920"
+        }
+      ]
+    },
+    {
+      "text": "Charankumar Akiri [EVIDENCE_BASED]: Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:6ed57a3e1fed6ac3:11",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "source_url": "https://doi.org/10.1109/access.2023.3300381",
+          "quote": "Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+          "work_id": "W4385452929",
+          "faculty_id": "A5092401086"
+        }
+      ]
+    },
+    {
+      "text": "Dušan Gabrijelčič [EVIDENCE_BASED]: Title: Artificial intelligence for cybersecurity: Literature review and future research directions\n\nAbstract: Artificial intelligence (AI) is a powerful technology that helps cybersecurity teams automate repetitive tasks, accelerate threat detection and response, and improve the accuracy of their actions to strengthen the security posture against various security issues and cyberattacks.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:7c2adc50612e15b1:1",
+          "title": "Artificial intelligence for cybersecurity: Literature review and future research directions",
+          "year": 2023,
+          "doi": "10.1016/j.inffus.2023.101804",
+          "source_url": "https://doi.org/10.1016/j.inffus.2023.101804",
+          "quote": "Title: Artificial intelligence for cybersecurity: Literature review and future research directions\n\nAbstract: Artificial intelligence (AI) is a powerful technology that helps cybersecurity teams automate repetitive tasks, accelerate threat detection and response, and improve the accuracy of their actions to strengthen the security posture against various security issues and cyberattacks.",
+          "work_id": "W4362704894",
+          "faculty_id": "A5109332668"
+        }
+      ]
+    },
+    {
+      "text": "Eli Parker [EVIDENCE_BASED]: Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:23fccd574e8aa42b:10",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "source_url": "https://doi.org/10.1109/access.2023.3300381",
+          "quote": "Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+          "work_id": "W4385452929",
+          "faculty_id": "A5112952983"
+        }
+      ]
+    }
+  ],
+  "corpus_source": "live-openalex",
+  "corpus_profiles": 170,
+  "corpus_documents": 351,
+  "matches": [
+    {
+      "faculty_id": "A5109332668",
+      "faculty_name": "Dušan Gabrijelčič",
+      "score": 0.361019017549824,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.616740821647616,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I3006985408",
+          "name": "Jožef Stefan Institute"
+        },
+        {
+          "id": "I4210113529",
+          "name": "Jožef Stefan International Postgraduate School"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4362704894",
+          "title": "Artificial intelligence for cybersecurity: Literature review and future research directions",
+          "year": 2023,
+          "doi": "10.1016/j.inffus.2023.101804",
+          "citation_url": "https://doi.org/10.1016/j.inffus.2023.101804"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Artificial intelligence for cybersecurity: Literature review and future research directions\n\nAbstract: Artificial intelligence (AI) is a powerful technology that helps cybersecurity teams automate repetitive tasks, accelerate threat detection and response, and improve the accuracy of their actions to strengthen the security posture against various security issues and cyberattacks.",
+          "title": "Artificial intelligence for cybersecurity: Literature review and future research directions",
+          "year": 2023,
+          "doi": "10.1016/j.inffus.2023.101804",
+          "source_url": "https://doi.org/10.1016/j.inffus.2023.101804",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4362704894",
+          "doc_id": "publication:7c2adc50612e15b1"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5109332668 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5109332668 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5109332668 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 1.0,
+          "weight": 0.6,
+          "contribution": 0.6,
+          "explanation": "retrieved publications of A5109332668 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5109332668"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5109332668"
+        },
+        {
+          "name": "citations",
+          "value": 0.9008898597713908,
+          "weight": 0.2,
+          "contribution": 0.18017797195427818,
+          "explanation": "citations to supporting publications for A5109332668"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5057354021",
+      "faculty_name": "Ramanpreet Kaur",
+      "score": 0.35760471529665977,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.6109080552984604,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I3006985408",
+          "name": "Jožef Stefan Institute"
+        },
+        {
+          "id": "I4210113529",
+          "name": "Jožef Stefan International Postgraduate School"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4362704894",
+          "title": "Artificial intelligence for cybersecurity: Literature review and future research directions",
+          "year": 2023,
+          "doi": "10.1016/j.inffus.2023.101804",
+          "citation_url": "https://doi.org/10.1016/j.inffus.2023.101804"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Artificial intelligence for cybersecurity: Literature review and future research directions\n\nAbstract: Artificial intelligence (AI) is a powerful technology that helps cybersecurity teams automate repetitive tasks, accelerate threat detection and response, and improve the accuracy of their actions to strengthen the security posture against various security issues and cyberattacks.",
+          "title": "Artificial intelligence for cybersecurity: Literature review and future research directions",
+          "year": 2023,
+          "doi": "10.1016/j.inffus.2023.101804",
+          "source_url": "https://doi.org/10.1016/j.inffus.2023.101804",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4362704894",
+          "doc_id": "publication:917fb3c3327c4eeb"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5057354021 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5057354021 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5057354021 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9766689346033778,
+          "weight": 0.6,
+          "contribution": 0.5860013607620267,
+          "explanation": "retrieved publications of A5057354021 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5057354021"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5057354021"
+        },
+        {
+          "name": "citations",
+          "value": 0.9008898597713908,
+          "weight": 0.2,
+          "contribution": 0.18017797195427818,
+          "explanation": "citations to supporting publications for A5057354021"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5036098867",
+      "faculty_name": "Tomaž Klobučar",
+      "score": 0.3543607275677908,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.6053662429283092,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I3006985408",
+          "name": "Jožef Stefan Institute"
+        },
+        {
+          "id": "I4210113529",
+          "name": "Jožef Stefan International Postgraduate School"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4362704894",
+          "title": "Artificial intelligence for cybersecurity: Literature review and future research directions",
+          "year": 2023,
+          "doi": "10.1016/j.inffus.2023.101804",
+          "citation_url": "https://doi.org/10.1016/j.inffus.2023.101804"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Artificial intelligence for cybersecurity: Literature review and future research directions\n\nAbstract: Artificial intelligence (AI) is a powerful technology that helps cybersecurity teams automate repetitive tasks, accelerate threat detection and response, and improve the accuracy of their actions to strengthen the security posture against various security issues and cyberattacks.",
+          "title": "Artificial intelligence for cybersecurity: Literature review and future research directions",
+          "year": 2023,
+          "doi": "10.1016/j.inffus.2023.101804",
+          "source_url": "https://doi.org/10.1016/j.inffus.2023.101804",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4362704894",
+          "doc_id": "publication:d9c443fbfda18f57"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5036098867 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5036098867 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5036098867 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9545016851227731,
+          "weight": 0.6,
+          "contribution": 0.5727010110736639,
+          "explanation": "retrieved publications of A5036098867 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5036098867"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5036098867"
+        },
+        {
+          "name": "citations",
+          "value": 0.9008898597713908,
+          "weight": 0.2,
+          "contribution": 0.18017797195427818,
+          "explanation": "citations to supporting publications for A5036098867"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5112952983",
+      "faculty_name": "Eli Parker",
+      "score": 0.3440507007651484,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.587753280473795,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I63920570",
+          "name": "Tennessee Technological University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4385452929",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "citation_url": "https://doi.org/10.1109/access.2023.3300381"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "source_url": "https://doi.org/10.1109/access.2023.3300381",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4385452929",
+          "doc_id": "publication:23fccd574e8aa42b"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5112952983 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5112952983 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5112952983 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8731854838709675,
+          "weight": 0.6,
+          "contribution": 0.5239112903225804,
+          "explanation": "retrieved publications of A5112952983 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5112952983"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5112952983"
+        },
+        {
+          "name": "citations",
+          "value": 0.9334829140726386,
+          "weight": 0.2,
+          "contribution": 0.18669658281452772,
+          "explanation": "citations to supporting publications for A5112952983"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5092401086",
+      "faculty_name": "Charankumar Akiri",
+      "score": 0.3422752438569879,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.5847202082556876,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I63920570",
+          "name": "Tennessee Technological University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4385452929",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "citation_url": "https://doi.org/10.1109/access.2023.3300381"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "source_url": "https://doi.org/10.1109/access.2023.3300381",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4385452929",
+          "doc_id": "publication:6ed57a3e1fed6ac3"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5092401086 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5092401086 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5092401086 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8610531949985374,
+          "weight": 0.6,
+          "contribution": 0.5166319169991224,
+          "explanation": "retrieved publications of A5092401086 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5092401086"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5092401086"
+        },
+        {
+          "name": "citations",
+          "value": 0.9334829140726386,
+          "weight": 0.2,
+          "contribution": 0.18669658281452772,
+          "explanation": "citations to supporting publications for A5092401086"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5005398538",
+      "faculty_name": "Kshitiz Aryal",
+      "score": 0.3405484573730545,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.5817702813456348,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I63920570",
+          "name": "Tennessee Technological University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4385452929",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "citation_url": "https://doi.org/10.1109/access.2023.3300381"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "source_url": "https://doi.org/10.1109/access.2023.3300381",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4385452929",
+          "doc_id": "publication:a0beccf07adda00e"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5005398538 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5005398538 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5005398538 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.849253487358326,
+          "weight": 0.6,
+          "contribution": 0.5095520924149955,
+          "explanation": "retrieved publications of A5005398538 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5005398538"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5005398538"
+        },
+        {
+          "name": "citations",
+          "value": 0.9334829140726386,
+          "weight": 0.2,
+          "contribution": 0.18669658281452772,
+          "explanation": "citations to supporting publications for A5005398538"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5047952246",
+      "faculty_name": "Maanak Gupta",
+      "score": 0.33886836671688525,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.5789001264746789,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I63920570",
+          "name": "Tennessee Technological University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4385452929",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "citation_url": "https://doi.org/10.1109/access.2023.3300381"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "source_url": "https://doi.org/10.1109/access.2023.3300381",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4385452929",
+          "doc_id": "publication:ae45f19c38d01fe5"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5047952246 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5047952246 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5047952246 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8377728678745029,
+          "weight": 0.6,
+          "contribution": 0.5026637207247017,
+          "explanation": "retrieved publications of A5047952246 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5047952246"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5047952246"
+        },
+        {
+          "name": "citations",
+          "value": 0.9334829140726386,
+          "weight": 0.2,
+          "contribution": 0.18669658281452772,
+          "explanation": "citations to supporting publications for A5047952246"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5034235259",
+      "faculty_name": "Lopamudra Praharaj",
+      "score": 0.3372331026999832,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.5761065504458045,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I63920570",
+          "name": "Tennessee Technological University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W4385452929",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "citation_url": "https://doi.org/10.1109/access.2023.3300381"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy\n\nAbstract: Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022.",
+          "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+          "year": 2023,
+          "doi": "10.1109/access.2023.3300381",
+          "source_url": "https://doi.org/10.1109/access.2023.3300381",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W4385452929",
+          "doc_id": "publication:b70fd44c1c2f3ed3"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5034235259 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5034235259 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5034235259 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8265985637590051,
+          "weight": 0.6,
+          "contribution": 0.49595913825540305,
+          "explanation": "retrieved publications of A5034235259 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5034235259"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5034235259"
+        },
+        {
+          "name": "citations",
+          "value": 0.9334829140726386,
+          "weight": 0.2,
+          "contribution": 0.18669658281452772,
+          "explanation": "citations to supporting publications for A5034235259"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5074086920",
+      "faculty_name": "Paul Watters",
+      "score": 0.3365162490591125,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.5748819254759838,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I196829312",
+          "name": "La Trobe University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W3038955483",
+          "title": "Cybersecurity data science: an overview from machine learning perspective",
+          "year": 2020,
+          "doi": "10.1186/s40537-020-00318-5",
+          "citation_url": "https://doi.org/10.1186/s40537-020-00318-5"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Cybersecurity data science: an overview from machine learning perspective\n\nAbstract: Abstract In a computing context, cybersecurity is undergoing massive shifts in technology and its operations in recent days, and data science is driving the change.",
+          "title": "Cybersecurity data science: an overview from machine learning perspective",
+          "year": 2020,
+          "doi": "10.1186/s40537-020-00318-5",
+          "source_url": "https://doi.org/10.1186/s40537-020-00318-5",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W3038955483",
+          "doc_id": "publication:0c1719b814e61291"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5074086920 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5074086920 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5074086920 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9923135080645161,
+          "weight": 0.6,
+          "contribution": 0.5953881048387096,
+          "explanation": "retrieved publications of A5074086920 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.6597539553864471,
+          "weight": 0.3,
+          "contribution": 0.1979261866159341,
+          "explanation": "recency of supporting publications for A5074086920"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5074086920"
+        },
+        {
+          "name": "citations",
+          "value": 0.9320116484385861,
+          "weight": 0.2,
+          "contribution": 0.18640232968771722,
+          "explanation": "citations to supporting publications for A5074086920"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5061811149",
+      "faculty_name": "Alex Ng",
+      "score": 0.33422679928431176,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.5709707821106992,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I196829312",
+          "name": "La Trobe University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [],
+      "supporting_publications": [
+        {
+          "work_id": "W3038955483",
+          "title": "Cybersecurity data science: an overview from machine learning perspective",
+          "year": 2020,
+          "doi": "10.1186/s40537-020-00318-5",
+          "citation_url": "https://doi.org/10.1186/s40537-020-00318-5"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Cybersecurity data science: an overview from machine learning perspective\n\nAbstract: Abstract In a computing context, cybersecurity is undergoing massive shifts in technology and its operations in recent days, and data science is driving the change.",
+          "title": "Cybersecurity data science: an overview from machine learning perspective",
+          "year": 2020,
+          "doi": "10.1186/s40537-020-00318-5",
+          "source_url": "https://doi.org/10.1186/s40537-020-00318-5",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W3038955483",
+          "doc_id": "publication:9dcc51003962d62a"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5061811149 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.0,
+          "weight": 0.9,
+          "contribution": 0.0,
+          "explanation": "retrieved publications of A5061811149 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5061811149 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9766689346033778,
+          "weight": 0.6,
+          "contribution": 0.5860013607620267,
+          "explanation": "retrieved publications of A5061811149 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.6597539553864471,
+          "weight": 0.3,
+          "contribution": 0.1979261866159341,
+          "explanation": "recency of supporting publications for A5061811149"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5061811149"
+        },
+        {
+          "name": "citations",
+          "value": 0.9320116484385861,
+          "weight": 0.2,
+          "contribution": 0.18640232968771722,
+          "explanation": "citations to supporting publications for A5061811149"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    }
+  ],
+  "discovery": {
+    "provider": "openalex",
+    "cached": false,
+    "works_retrieved": 50,
+    "api_calls": 1,
+    "scope_institutions": [],
+    "crossref_checked": 50,
+    "crossref_verified": 9,
+    "crossref_enriched": 0,
+    "crossref_mismatched": 0,
+    "query": "cybersecurity"
+  }
+}

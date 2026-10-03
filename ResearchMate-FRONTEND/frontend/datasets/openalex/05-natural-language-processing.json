@@ -1,0 +1,1127 @@
+{
+  "query": "natural language processing",
+  "status": "ok",
+  "verified": true,
+  "answer_text": "Evidence for 'natural language processing':\nClément Delangue [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.\n\nEvidence for 'natural language processing':\nSteven Bird [EVIDENCE_BASED]: Title: Natural language processing with Python\n\nAbstract: This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation.\n\nEvidence for 'natural language processing':\nJulien Chaumond [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.\n\nEvidence for 'natural language processing':\nTim Rault [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.\n\nEvidence for 'natural language processing':\nAnthony Moi [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.\n\nEvidence for 'natural language processing':\nRémi Louf [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.\n\nEvidence for 'natural language processing':\nClara Ma [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.\n\nEvidence for 'natural language processing':\nTeven Le Scao [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+  "warnings": [],
+  "llm_model": "extractive-v1",
+  "claims": [
+    {
+      "text": "Clément Delangue [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:36dd37e66f792f0f:13",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "work_id": "W2979826702",
+          "faculty_id": "A5009717413"
+        }
+      ]
+    },
+    {
+      "text": "Steven Bird [EVIDENCE_BASED]: Title: Natural language processing with Python\n\nAbstract: This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:4e0771301e715e22:1",
+          "title": "Natural language processing with Python",
+          "year": 2009,
+          "doi": null,
+          "source_url": "https://openalex.org/W1521626219",
+          "quote": "Title: Natural language processing with Python\n\nAbstract: This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation.",
+          "work_id": "W1521626219",
+          "faculty_id": "A5026383657"
+        }
+      ]
+    },
+    {
+      "text": "Julien Chaumond [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:1104e1555f51493c:8",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "work_id": "W2979826702",
+          "faculty_id": "A5038505596"
+        }
+      ]
+    },
+    {
+      "text": "Tim Rault [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:3474f1dd2e006cad:12",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "work_id": "W2979826702",
+          "faculty_id": "A5045605007"
+        }
+      ]
+    },
+    {
+      "text": "Anthony Moi [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:3fee745a0b6bbccc:15",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "work_id": "W2979826702",
+          "faculty_id": "A5047786477"
+        }
+      ]
+    },
+    {
+      "text": "Rémi Louf [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:160a13147faa3b9c:9",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "work_id": "W2979826702",
+          "faculty_id": "A5048225486"
+        }
+      ]
+    },
+    {
+      "text": "Clara Ma [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:330adec710531604:11",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "work_id": "W2979826702",
+          "faculty_id": "A5053604157"
+        }
+      ]
+    },
+    {
+      "text": "Teven Le Scao [EVIDENCE_BASED]: Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:284add0aa3b4a462:10",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "work_id": "W2979826702",
+          "faculty_id": "A5084957527"
+        }
+      ]
+    }
+  ],
+  "corpus_source": "live-openalex",
+  "corpus_profiles": 240,
+  "corpus_documents": 496,
+  "matches": [
+    {
+      "faculty_id": "A5038505596",
+      "faculty_name": "Julien Chaumond",
+      "score": 0.541098929263013,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9243773374909805,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I4387154989",
+          "name": "Hugging Face"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Natural Language Processing Techniques"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2979826702",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "citation_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2979826702",
+          "doc_id": "publication:1104e1555f51493c"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5038505596 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8842436974789916,
+          "weight": 0.9,
+          "contribution": 0.7958193277310924,
+          "explanation": "retrieved publications of A5038505596 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5038505596 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8842436974789916,
+          "weight": 0.6,
+          "contribution": 0.5305462184873949,
+          "explanation": "retrieved publications of A5038505596 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5038505596"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5038505596"
+        },
+        {
+          "name": "citations",
+          "value": 0.9607003187993288,
+          "weight": 0.2,
+          "contribution": 0.19214006375986578,
+          "explanation": "citations to supporting publications for A5038505596"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5048225486",
+      "faculty_name": "Rémi Louf",
+      "score": 0.5364755461472767,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9164790580015975,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I4387154989",
+          "name": "Hugging Face"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Natural Language Processing Techniques"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2979826702",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "citation_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2979826702",
+          "doc_id": "publication:160a13147faa3b9c"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5048225486 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8716064502959787,
+          "weight": 0.9,
+          "contribution": 0.7844458052663809,
+          "explanation": "retrieved publications of A5048225486 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5048225486 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8716064502959787,
+          "weight": 0.6,
+          "contribution": 0.5229638701775872,
+          "explanation": "retrieved publications of A5048225486 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5048225486"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5048225486"
+        },
+        {
+          "name": "citations",
+          "value": 0.9607003187993288,
+          "weight": 0.2,
+          "contribution": 0.19214006375986578,
+          "explanation": "citations to supporting publications for A5048225486"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5084957527",
+      "faculty_name": "Teven Le Scao",
+      "score": 0.5319824778043807,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9088033995824837,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I4387154989",
+          "name": "Hugging Face"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Natural Language Processing Techniques"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2979826702",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "citation_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2979826702",
+          "doc_id": "publication:284add0aa3b4a462"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5084957527 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8593253968253967,
+          "weight": 0.9,
+          "contribution": 0.773392857142857,
+          "explanation": "retrieved publications of A5084957527 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5084957527 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8593253968253967,
+          "weight": 0.6,
+          "contribution": 0.515595238095238,
+          "explanation": "retrieved publications of A5084957527 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5084957527"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5084957527"
+        },
+        {
+          "name": "citations",
+          "value": 0.9607003187993288,
+          "weight": 0.2,
+          "contribution": 0.19214006375986578,
+          "explanation": "citations to supporting publications for A5084957527"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5053604157",
+      "faculty_name": "Clara Ma",
+      "score": 0.5276142901731922,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9013410790458698,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I4387154989",
+          "name": "Hugging Face"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Natural Language Processing Techniques"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2979826702",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "citation_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2979826702",
+          "doc_id": "publication:330adec710531604"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5053604157 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8473856839668146,
+          "weight": 0.9,
+          "contribution": 0.7626471155701331,
+          "explanation": "retrieved publications of A5053604157 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5053604157 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8473856839668146,
+          "weight": 0.6,
+          "contribution": 0.5084314103800888,
+          "explanation": "retrieved publications of A5053604157 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5053604157"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5053604157"
+        },
+        {
+          "name": "citations",
+          "value": 0.9607003187993288,
+          "weight": 0.2,
+          "contribution": 0.19214006375986578,
+          "explanation": "citations to supporting publications for A5053604157"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5045605007",
+      "faculty_name": "Tim Rault",
+      "score": 0.5233658472365307,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8940833223624066,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I4387154989",
+          "name": "Hugging Face"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Natural Language Processing Techniques"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2979826702",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "citation_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2979826702",
+          "doc_id": "publication:3474f1dd2e006cad"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5045605007 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8357732732732732,
+          "weight": 0.9,
+          "contribution": 0.752195945945946,
+          "explanation": "retrieved publications of A5045605007 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5045605007 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8357732732732732,
+          "weight": 0.6,
+          "contribution": 0.5014639639639639,
+          "explanation": "retrieved publications of A5045605007 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5045605007"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5045605007"
+        },
+        {
+          "name": "citations",
+          "value": 0.9607003187993288,
+          "weight": 0.2,
+          "contribution": 0.19214006375986578,
+          "explanation": "citations to supporting publications for A5045605007"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5026383657",
+      "faculty_name": "Steven Bird",
+      "score": 0.5215454842529745,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8909735355988315,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I165779595",
+          "name": "The University of Melbourne"
+        },
+        {
+          "id": "I79576946",
+          "name": "University of Pennsylvania"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Language and cultural evolution",
+        "Natural Language Processing Techniques"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W1521626219",
+          "title": "Natural language processing with Python",
+          "year": 2009,
+          "doi": null,
+          "citation_url": "https://openalex.org/W1521626219"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Natural language processing with Python\n\nAbstract: This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation.",
+          "title": "Natural language processing with Python",
+          "year": 2009,
+          "doi": null,
+          "source_url": "https://openalex.org/W1521626219",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W1521626219",
+          "doc_id": "publication:4e0771301e715e22"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5026383657 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 1.0,
+          "weight": 0.9,
+          "contribution": 0.9,
+          "explanation": "retrieved publications of A5026383657 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5026383657 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 1.0,
+          "weight": 0.6,
+          "contribution": 0.6,
+          "explanation": "retrieved publications of A5026383657 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.21763764082403103,
+          "weight": 0.3,
+          "contribution": 0.06529129224720931,
+          "explanation": "recency of supporting publications for A5026383657"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5026383657"
+        },
+        {
+          "name": "citations",
+          "value": 0.8652259659499314,
+          "weight": 0.2,
+          "contribution": 0.1730451931899863,
+          "explanation": "citations to supporting publications for A5026383657"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5009717413",
+      "faculty_name": "Clément Delangue",
+      "score": 0.5172746528628086,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8836775319739647,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I4387154989",
+          "name": "Hugging Face"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Natural Language Processing Techniques"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2979826702",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "citation_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2979826702",
+          "doc_id": "publication:36dd37e66f792f0f"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5009717413 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8191240086517663,
+          "weight": 0.9,
+          "contribution": 0.7372116077865897,
+          "explanation": "retrieved publications of A5009717413 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5009717413 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8191240086517663,
+          "weight": 0.6,
+          "contribution": 0.4914744051910597,
+          "explanation": "retrieved publications of A5009717413 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5009717413"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5009717413"
+        },
+        {
+          "name": "citations",
+          "value": 0.9607003187993288,
+          "weight": 0.2,
+          "contribution": 0.19214006375986578,
+          "explanation": "citations to supporting publications for A5009717413"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5072285427",
+      "faculty_name": "Edward Loper",
+      "score": 0.5127878505936887,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8760125780975514,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I79576946",
+          "name": "University of Pennsylvania"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Language and cultural evolution",
+        "Natural Language Processing Techniques"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W1521626219",
+          "title": "Natural language processing with Python",
+          "year": 2009,
+          "doi": null,
+          "citation_url": "https://openalex.org/W1521626219"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Natural language processing with Python\n\nAbstract: This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation.",
+          "title": "Natural language processing with Python",
+          "year": 2009,
+          "doi": null,
+          "source_url": "https://openalex.org/W1521626219",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W1521626219",
+          "doc_id": "publication:71b7ee42ca3ef2f6"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5072285427 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.9760624679979518,
+          "weight": 0.9,
+          "contribution": 0.8784562211981567,
+          "explanation": "retrieved publications of A5072285427 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5072285427 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9760624679979518,
+          "weight": 0.6,
+          "contribution": 0.5856374807987711,
+          "explanation": "retrieved publications of A5072285427 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.21763764082403103,
+          "weight": 0.3,
+          "contribution": 0.06529129224720931,
+          "explanation": "recency of supporting publications for A5072285427"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5072285427"
+        },
+        {
+          "name": "citations",
+          "value": 0.8652259659499314,
+          "weight": 0.2,
+          "contribution": 0.1730451931899863,
+          "explanation": "citations to supporting publications for A5072285427"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5047786477",
+      "faculty_name": "Anthony Moi",
+      "score": 0.5114443337906269,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8737174035589877,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I4387154989",
+          "name": "Hugging Face"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Natural Language Processing Techniques"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2979826702",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "citation_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2979826702",
+          "doc_id": "publication:3fee745a0b6bbccc"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5047786477 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8031878031878031,
+          "weight": 0.9,
+          "contribution": 0.7228690228690229,
+          "explanation": "retrieved publications of A5047786477 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5047786477 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8031878031878031,
+          "weight": 0.6,
+          "contribution": 0.4819126819126819,
+          "explanation": "retrieved publications of A5047786477 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5047786477"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5047786477"
+        },
+        {
+          "name": "citations",
+          "value": 0.9607003187993288,
+          "weight": 0.2,
+          "contribution": 0.19214006375986578,
+          "explanation": "citations to supporting publications for A5047786477"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5069696966",
+      "faculty_name": "Lysandre Debut",
+      "score": 0.5076229238562193,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.867189161587708,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I4387154989",
+          "name": "Hugging Face"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Natural Language Processing Techniques"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2979826702",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "citation_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Transformers: State-of-the-Art Natural Language Processing\n\nAbstract: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush.",
+          "title": "Transformers: State-of-the-Art Natural Language Processing",
+          "year": 2020,
+          "doi": "10.18653/v1/2020.emnlp-demos.6",
+          "source_url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2979826702",
+          "doc_id": "publication:5aace80ae65ffe46"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5069696966 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.7927426160337553,
+          "weight": 0.9,
+          "contribution": 0.7134683544303798,
+          "explanation": "retrieved publications of A5069696966 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5069696966 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.7927426160337553,
+          "weight": 0.6,
+          "contribution": 0.4756455696202532,
+          "explanation": "retrieved publications of A5069696966 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5069696966"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5069696966"
+        },
+        {
+          "name": "citations",
+          "value": 0.9607003187993288,
+          "weight": 0.2,
+          "contribution": 0.19214006375986578,
+          "explanation": "citations to supporting publications for A5069696966"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    }
+  ],
+  "discovery": {
+    "provider": "openalex",
+    "cached": false,
+    "works_retrieved": 50,
+    "api_calls": 1,
+    "scope_institutions": [],
+    "crossref_checked": 44,
+    "crossref_verified": 8,
+    "crossref_enriched": 0,
+    "crossref_mismatched": 0,
+    "query": "natural language processing"
+  }
+}

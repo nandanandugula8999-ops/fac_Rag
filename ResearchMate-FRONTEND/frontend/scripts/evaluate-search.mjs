@@ -1,0 +1,26 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import {createRequire} from 'node:module';
+import {transformSync} from 'esbuild';
+const require=createRequire(import.meta.url);
+const source=fs.readFileSync('lib/search.ts','utf8');
+const output=transformSync(source,{loader:'ts',format:'cjs'}).code;
+const module={exports:{}};
+const localRequire=(p)=>p==='./data/corpus.json'?JSON.parse(fs.readFileSync('lib/data/corpus.json','utf8')):require(p);
+new Function('require','module','exports',output)(localRequire,module,module.exports);
+const {faculty,publications,topics,searchFaculty,emptyFilters}=module.exports;
+assert.equal(faculty.length,50);assert.equal(publications.length,150);
+assert.equal(new Set(publications.map(p=>p.id)).size,150);
+for(const p of publications){assert(faculty.some(f=>f.id===p.facultyId));assert(p.abstract.includes(p.passage));assert(p.synthetic);}
+const queries=['Generative AI','Cybersecurity','NLP','Computer Vision','Healthcare AI','Robotics','IoT','Data Science','Cloud Computing','Machine Learning'];
+const evaluation=queries.map((q,i)=>{const topic=topics[i].name;const relevant=faculty.filter(f=>f.statedExpertise.includes(topic)||publications.some(p=>p.facultyId===f.id&&p.topics.includes(topic))).map(f=>f.id);const result=searchFaculty(q);const top=result.slice(0,5).map(r=>r.faculty.id);const hits=top.filter(id=>relevant.includes(id)).length;const first=result.findIndex(r=>relevant.includes(r.faculty.id));return{query:q,topic,relevantFacultyIds:relevant,returnedTop5:top,precisionAt5:hits/5,recallAt5:hits/relevant.length,reciprocalRank:first<0?0:1/(first+1)}});
+assert.equal(searchFaculty('zzzzunknownquantumxylophone').length,0);
+assert(searchFaculty('NLP').length>0);
+assert(searchFaculty('Dr. Ananya Sharma')[0].faculty.id==='FAC-001');
+assert(searchFaculty('',{...emptyFilters,department:'Mechanical Engineering'}).every(r=>r.faculty.department==='Mechanical Engineering'));
+assert(searchFaculty('',{...emptyFilters,year:'2026',type:'Journal'}).every(r=>r.publications.every(p=>p.year===2026&&p.type==='Journal')));
+assert.equal(searchFaculty('Cybersecurity',{...emptyFilters,department:'Mechanical Engineering'}).length,0);
+const average=(key)=>evaluation.reduce((s,e)=>s+e[key],0)/evaluation.length;
+const result={provenance:'Synthetic topic-membership labels; same vocabulary as generated corpus. Not independent judgments or a real-world quality estimate.',method:'BM25 + cosine of ten alias-normalized topic dimensions; reciprocal rank fusion; maximum publication score per faculty.',metrics:{meanPrecisionAt5:average('precisionAt5'),meanRecallAt5:average('recallAt5'),MRR:average('reciprocalRank')},queries:evaluation};
+fs.writeFileSync('public/dataset/evaluation.json',JSON.stringify(result,null,2));
+console.log(JSON.stringify({status:'passed',records:150,faculty:50,queryCount:10,metrics:result.metrics}));

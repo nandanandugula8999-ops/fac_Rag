@@ -1,0 +1,87 @@
+{
+  "captured_at_utc": "2026-10-03T04:44:27.695028+00:00",
+  "upstream_commit": "6ba86142c78f85ff48453bb3645040f6392b376e",
+  "health": {
+    "status": "ok",
+    "mode": "ondemand",
+    "corpus_source": "live-openalex",
+    "scope_institutions": [],
+    "llm_model": "extractive-v1"
+  },
+  "note": "Actual API response snapshots, not frontend fallback data. An insufficient_evidence response alone cannot distinguish an upstream service error from genuine lack of evidence.",
+  "queries": [
+    {
+      "query": "machine learning",
+      "status": "ok",
+      "faculty_count": 10,
+      "works_retrieved": 50,
+      "verified": true,
+      "file": "01-machine-learning.json",
+      "elapsed_seconds": 3.33
+    },
+    {
+      "query": "computer vision",
+      "status": "ok",
+      "faculty_count": 10,
+      "works_retrieved": 50,
+      "verified": true,
+      "file": "02-computer-vision.json",
+      "elapsed_seconds": 2.14
+    },
+    {
+      "query": "cybersecurity",
+      "status": "ok",
+      "faculty_count": 10,
+      "works_retrieved": 50,
+      "verified": true,
+      "file": "03-cybersecurity.json",
+      "elapsed_seconds": 2.66
+    },
+    {
+      "query": "quantum computing",
+      "status": "ok",
+      "faculty_count": 10,
+      "works_retrieved": 50,
+      "verified": true,
+      "file": "04-quantum-computing.json",
+      "elapsed_seconds": 2.45
+    },
+    {
+      "query": "natural language processing",
+      "status": "ok",
+      "faculty_count": 10,
+      "works_retrieved": 50,
+      "verified": true,
+      "file": "05-natural-language-processing.json",
+      "elapsed_seconds": 2.57
+    },
+    {
+      "query": "robotics",
+      "status": "ok",
+      "faculty_count": 10,
+      "works_retrieved": 50,
+      "verified": true,
+      "file": "06-robotics.json",
+      "elapsed_seconds": 2.29
+    },
+    {
+      "query": "graph neural networks",
+      "status": "ok",
+      "faculty_count": 10,
+      "works_retrieved": 50,
+      "verified": true,
+      "file": "07-graph-neural-networks.json",
+      "elapsed_seconds": 2.72
+    },
+    {
+      "query": "zzzxqvpl nonexistent purple teapot faculty topic 94721",
+      "status": "insufficient_evidence",
+      "faculty_count": 0,
+      "works_retrieved": 0,
+      "verified": false,
+      "file": "08-unrelated-query.json",
+      "elapsed_seconds": 0.16
+    }
+  ],
+  "unique_supporting_publications": 27
+}

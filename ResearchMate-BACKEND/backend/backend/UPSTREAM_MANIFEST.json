@@ -1,0 +1,744 @@
+{
+  "repository": "https://github.com/prathiksh13/fac_rag",
+  "commit": "6ba86142c78f85ff48453bb3645040f6392b376e",
+  "files": [
+    {
+      "upstream_path": ".env.example",
+      "project_path": "backend/.env.example",
+      "git_blob_sha": "18051b8d255516f23b53248f98beee3d9d56f6fe",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": ".gitignore",
+      "project_path": "backend/.gitignore",
+      "git_blob_sha": "710dd554b4241e2781953244f127a2a255d9af91",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "README.md",
+      "project_path": "backend/README.md",
+      "git_blob_sha": "1a185697c8e7c0ca296d628522871488aac69365",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "data/cache/.gitkeep",
+      "project_path": "backend/data/cache/.gitkeep",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "data/corpus/.gitkeep",
+      "project_path": "backend/data/corpus/.gitkeep",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "data/exports/.gitkeep",
+      "project_path": "backend/data/exports/.gitkeep",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "data/graph/.gitkeep",
+      "project_path": "backend/data/graph/.gitkeep",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "data/interim/.gitkeep",
+      "project_path": "backend/data/interim/.gitkeep",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "data/processed/.gitkeep",
+      "project_path": "backend/data/processed/.gitkeep",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "data/raw/.gitkeep",
+      "project_path": "backend/data/raw/.gitkeep",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "data/vectors/.gitkeep",
+      "project_path": "backend/data/vectors/.gitkeep",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/.gitignore",
+      "project_path": "examples/upstream-demo-web/.gitignore",
+      "git_blob_sha": "a547bf36d8d11a4f89c59c144f24795749086dd1",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/.oxlintrc.json",
+      "project_path": "examples/upstream-demo-web/.oxlintrc.json",
+      "git_blob_sha": "6fa991dad24b57eb19c9cefba8ea12fd1870ed07",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/README.md",
+      "project_path": "examples/upstream-demo-web/README.md",
+      "git_blob_sha": "d6af7e39ffac6183b891838d6ab1d6eb7ac70dda",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/index.html",
+      "project_path": "examples/upstream-demo-web/index.html",
+      "git_blob_sha": "5f9ad8334ac78899e2b4ee14da655b2265513b51",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/package-lock.json",
+      "project_path": "examples/upstream-demo-web/package-lock.json",
+      "git_blob_sha": "991f2f4f05a6367590942c29c261a1a1d986282b",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/package.json",
+      "project_path": "examples/upstream-demo-web/package.json",
+      "git_blob_sha": "e0429d6fc7834c4ef3c2623e4f3f152ca0f8f491",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/public/favicon.svg",
+      "project_path": "examples/upstream-demo-web/public/favicon.svg",
+      "git_blob_sha": "6893eb13237060adc0c968a690149a49faa2d7d3",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/public/icons.svg",
+      "project_path": "examples/upstream-demo-web/public/icons.svg",
+      "git_blob_sha": "e9522193d9f796a9748e9ad8c952a5df73c87db9",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/src/App.tsx",
+      "project_path": "examples/upstream-demo-web/src/App.tsx",
+      "git_blob_sha": "d7ff9bf5dfa35141d8851de27b74897f1bace4c6",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/src/assets/hero.png",
+      "project_path": "examples/upstream-demo-web/src/assets/hero.png",
+      "git_blob_sha": "02251f4b956c55af2d76fd0788124d7eee2b45eb",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/src/assets/react.svg",
+      "project_path": "examples/upstream-demo-web/src/assets/react.svg",
+      "git_blob_sha": "6c87de9bb3358469122cc991d5cf578927246184",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/src/assets/vite.svg",
+      "project_path": "examples/upstream-demo-web/src/assets/vite.svg",
+      "git_blob_sha": "5101b674df391399da71c767aa5c976426c9dc7a",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/src/index.css",
+      "project_path": "examples/upstream-demo-web/src/index.css",
+      "git_blob_sha": "03d224afcd24b8bcbb0bf33c849610d2a08171a3",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/src/main.tsx",
+      "project_path": "examples/upstream-demo-web/src/main.tsx",
+      "git_blob_sha": "bef5202a32cbd0632c43de40f6e908532903fd42",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/tsconfig.app.json",
+      "project_path": "examples/upstream-demo-web/tsconfig.app.json",
+      "git_blob_sha": "6830b6f759f55aec32f0a2fd367ee63cf68db8b7",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/tsconfig.json",
+      "project_path": "examples/upstream-demo-web/tsconfig.json",
+      "git_blob_sha": "1ffef600d959ec9e396d5a260bd3f5b927b2cef8",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/tsconfig.node.json",
+      "project_path": "examples/upstream-demo-web/tsconfig.node.json",
+      "git_blob_sha": "8455dcbc2c947322adef8783a42741878edaea9c",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "demo-web/vite.config.ts",
+      "project_path": "examples/upstream-demo-web/vite.config.ts",
+      "git_blob_sha": "1df4eaad8c9f191b9cb4aad49845d9dd79f5ec92",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "logs/.gitkeep",
+      "project_path": "backend/logs/.gitkeep",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "pyproject.toml",
+      "project_path": "backend/pyproject.toml",
+      "git_blob_sha": "360b81d328a9b16ee9e6ee81324721d54297ae02",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "scripts/build_lake.py",
+      "project_path": "backend/scripts/build_lake.py",
+      "git_blob_sha": "8b72b326bdb64d982491abed320bcbac04e8b465",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/__init__.py",
+      "project_path": "backend/src/faculty_radar/__init__.py",
+      "git_blob_sha": "df885f0274ca2d692c2190bd324a2d06aa8dceda",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/api/__init__.py",
+      "project_path": "backend/src/faculty_radar/api/__init__.py",
+      "git_blob_sha": "4c1fc701fe1cb4a402ac01c4e78bf28a3816bcb8",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/api/server.py",
+      "project_path": "backend/src/faculty_radar/api/server.py",
+      "git_blob_sha": "47b8c9779d03ad34bda032e2bbae350a9858472b",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/cli.py",
+      "project_path": "backend/src/faculty_radar/cli.py",
+      "git_blob_sha": "0bf889243fa37f412abea366c65d97b71bed2542",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/collaboration/__init__.py",
+      "project_path": "backend/src/faculty_radar/collaboration/__init__.py",
+      "git_blob_sha": "0f204c1a06e3159e3f3484065b6b55d3a9d697d8",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/collaboration/engine.py",
+      "project_path": "backend/src/faculty_radar/collaboration/engine.py",
+      "git_blob_sha": "606b35498ef3a6c6fb997c02513801c1997afc36",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/config/__init__.py",
+      "project_path": "backend/src/faculty_radar/config/__init__.py",
+      "git_blob_sha": "cf1524a5416cef5bf11296ccbd0f3c5b9585dd20",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/config/logging.py",
+      "project_path": "backend/src/faculty_radar/config/logging.py",
+      "git_blob_sha": "45f92aff3a3a3afc68a7faf4c73f3f9224e6ccf8",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/config/settings.py",
+      "project_path": "backend/src/faculty_radar/config/settings.py",
+      "git_blob_sha": "6872837356edc2bbe483a460a7232d977a68cc4e",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/corpus/__init__.py",
+      "project_path": "backend/src/faculty_radar/corpus/__init__.py",
+      "git_blob_sha": "823f22d1ccae8c5310e6fa60b8d055d5b454f2f9",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/corpus/builder.py",
+      "project_path": "backend/src/faculty_radar/corpus/builder.py",
+      "git_blob_sha": "e19920e67f1f21cc719b3a9c47175b9cb3ab043e",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/corpus/store.py",
+      "project_path": "backend/src/faculty_radar/corpus/store.py",
+      "git_blob_sha": "6354e02d79533aef055a0162ea615c22883a5333",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/discovery/__init__.py",
+      "project_path": "backend/src/faculty_radar/discovery/__init__.py",
+      "git_blob_sha": "1a5fb43b3aabc8363aa9d6085a78d3b185a5694d",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/discovery/providers.py",
+      "project_path": "backend/src/faculty_radar/discovery/providers.py",
+      "git_blob_sha": "dd8c7e4a000bb96695c8086f6fad521b575cba4c",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/discovery/service.py",
+      "project_path": "backend/src/faculty_radar/discovery/service.py",
+      "git_blob_sha": "795ea781555a242e75059919606d30216f8bb26c",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/embeddings/__init__.py",
+      "project_path": "backend/src/faculty_radar/embeddings/__init__.py",
+      "git_blob_sha": "5491606b53602b90b4d7f54f38bff3948aa880b2",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/embeddings/backends.py",
+      "project_path": "backend/src/faculty_radar/embeddings/backends.py",
+      "git_blob_sha": "a2e044907fae76f369b6d97abccb432f7e2368ee",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/embeddings/pipeline.py",
+      "project_path": "backend/src/faculty_radar/embeddings/pipeline.py",
+      "git_blob_sha": "925e0c5b93387c7093d83b56fec617bae1963bcb",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/embeddings/store.py",
+      "project_path": "backend/src/faculty_radar/embeddings/store.py",
+      "git_blob_sha": "781104dcb4fa21ed4b8bf1d9e2f28098443bf829",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/evaluation/__init__.py",
+      "project_path": "backend/src/faculty_radar/evaluation/__init__.py",
+      "git_blob_sha": "ac7480489a594c1e13d32a45a54407d217313f0f",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/evaluation/metrics.py",
+      "project_path": "backend/src/faculty_radar/evaluation/metrics.py",
+      "git_blob_sha": "ae560c369c3223cccb02a1aeb3ac21a2ca4bf303",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/evaluation/suite.py",
+      "project_path": "backend/src/faculty_radar/evaluation/suite.py",
+      "git_blob_sha": "21f543d27b849c8cc41d59aabb263022323e7704",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/evidence/__init__.py",
+      "project_path": "backend/src/faculty_radar/evidence/__init__.py",
+      "git_blob_sha": "c0cbcc5efb091c3141e9cf9c35df65a8e8aba99f",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/evidence/selection.py",
+      "project_path": "backend/src/faculty_radar/evidence/selection.py",
+      "git_blob_sha": "1cc81333b82a2c65b70e2b0b866e62ceafc8d218",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/expertise/__init__.py",
+      "project_path": "backend/src/faculty_radar/expertise/__init__.py",
+      "git_blob_sha": "0c1237cb0c65d2b4424c25c02c89e6acdd9634ce",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/expertise/engine.py",
+      "project_path": "backend/src/faculty_radar/expertise/engine.py",
+      "git_blob_sha": "d16a76cee5d640699b4948b6f7b2fd45419d9713",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/graph/__init__.py",
+      "project_path": "backend/src/faculty_radar/graph/__init__.py",
+      "git_blob_sha": "3c449894696ae938529a184657296078bf898221",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/graph/builder.py",
+      "project_path": "backend/src/faculty_radar/graph/builder.py",
+      "git_blob_sha": "e7c2272e417ef13fb102426982a71e568ea98bf9",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/graph/queries.py",
+      "project_path": "backend/src/faculty_radar/graph/queries.py",
+      "git_blob_sha": "633e8434f36e61914fe9212ad42f100b6104fb44",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/graph/store.py",
+      "project_path": "backend/src/faculty_radar/graph/store.py",
+      "git_blob_sha": "00bff113360fb5a0c8d7dbef398f45af1ec6aa5d",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/ingestion/__init__.py",
+      "project_path": "backend/src/faculty_radar/ingestion/__init__.py",
+      "git_blob_sha": "10ddef184b58d3737303344876f8693f73264e4c",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/ingestion/cache.py",
+      "project_path": "backend/src/faculty_radar/ingestion/cache.py",
+      "git_blob_sha": "54f8b7e5cde0cc09a5f1858ba009944dda79999b",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/ingestion/client.py",
+      "project_path": "backend/src/faculty_radar/ingestion/client.py",
+      "git_blob_sha": "f9d8cdb01bf4994e2bd9566fa66ce4e149eab378",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/ingestion/pipeline.py",
+      "project_path": "backend/src/faculty_radar/ingestion/pipeline.py",
+      "git_blob_sha": "d175b9025b8f80faa4a5ba0ae65b3cf1be8d89f5",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/ingestion/store.py",
+      "project_path": "backend/src/faculty_radar/ingestion/store.py",
+      "git_blob_sha": "d0c26ec272e183262cfb250e03137ab1a1a0360a",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/linking/__init__.py",
+      "project_path": "backend/src/faculty_radar/linking/__init__.py",
+      "git_blob_sha": "570b38f527b783f8fa749dcdb8c643d7a14c6d38",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/linking/builder.py",
+      "project_path": "backend/src/faculty_radar/linking/builder.py",
+      "git_blob_sha": "2f0951f1969d184e87521621a37bc6e836af5020",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/linking/consent.py",
+      "project_path": "backend/src/faculty_radar/linking/consent.py",
+      "git_blob_sha": "77afe0b5e7ce5008447372b020bf1c25bf1d0af9",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/linking/store.py",
+      "project_path": "backend/src/faculty_radar/linking/store.py",
+      "git_blob_sha": "a20a5e514e3b5b85eb370e3efb9f4cbc356112b3",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/llm/__init__.py",
+      "project_path": "backend/src/faculty_radar/llm/__init__.py",
+      "git_blob_sha": "0a9a9656ab0071b429300c711b085a817f0b290e",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/llm/cache.py",
+      "project_path": "backend/src/faculty_radar/llm/cache.py",
+      "git_blob_sha": "0d680f1a4d14c2b2975ec700169674bc19654932",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/llm/generate.py",
+      "project_path": "backend/src/faculty_radar/llm/generate.py",
+      "git_blob_sha": "90a118d48dd5464deef16909c307c69f9dd5af11",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/models.py",
+      "project_path": "backend/src/faculty_radar/models.py",
+      "git_blob_sha": "cca2458d7503a2956772597e14111429ba1b25b2",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/normalization/__init__.py",
+      "project_path": "backend/src/faculty_radar/normalization/__init__.py",
+      "git_blob_sha": "d99ad5e0c0934df1417ccc7538b0e319492b15c3",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/normalization/abstract.py",
+      "project_path": "backend/src/faculty_radar/normalization/abstract.py",
+      "git_blob_sha": "b46a88fe218c0e46072dbcdb16df0a17bc273e3e",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/normalization/authors.py",
+      "project_path": "backend/src/faculty_radar/normalization/authors.py",
+      "git_blob_sha": "b82754b87297f58262ab35e9277ef3e162787e68",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/normalization/pipeline.py",
+      "project_path": "backend/src/faculty_radar/normalization/pipeline.py",
+      "git_blob_sha": "1a158e165e4ed702928bfa59110a1cd68202daf2",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/normalization/text.py",
+      "project_path": "backend/src/faculty_radar/normalization/text.py",
+      "git_blob_sha": "50ee081685f60d13fe4d53ac1a4df8efad6003e4",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/normalization/works.py",
+      "project_path": "backend/src/faculty_radar/normalization/works.py",
+      "git_blob_sha": "5dbf164db1e49d7a964057bfe23a2e6fa5934c97",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/paths.py",
+      "project_path": "backend/src/faculty_radar/paths.py",
+      "git_blob_sha": "9ba3fd9166c091b93111a658ede0b566ce2973f5",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/py.typed",
+      "project_path": "backend/src/faculty_radar/py.typed",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/rag/__init__.py",
+      "project_path": "backend/src/faculty_radar/rag/__init__.py",
+      "git_blob_sha": "4df65b05c0ce468bd93d4630e66c7d9b7e742dfc",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/rag/pipeline.py",
+      "project_path": "backend/src/faculty_radar/rag/pipeline.py",
+      "git_blob_sha": "1f75f655dbeb58f1b86f01d4204ceeadd4b54a05",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/ranking/__init__.py",
+      "project_path": "backend/src/faculty_radar/ranking/__init__.py",
+      "git_blob_sha": "27f8e01f6cc5d5636deffab70bc10c82459f60d7",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/ranking/rerank.py",
+      "project_path": "backend/src/faculty_radar/ranking/rerank.py",
+      "git_blob_sha": "ad4c157745618b51e81b9c5d341d036a1898106e",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/resolution/__init__.py",
+      "project_path": "backend/src/faculty_radar/resolution/__init__.py",
+      "git_blob_sha": "51b779a0bfefe75cabb00b8a6b294ed059cfd4f1",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/resolution/matching.py",
+      "project_path": "backend/src/faculty_radar/resolution/matching.py",
+      "git_blob_sha": "eb0e8acaf7f7141cbbded1f151360984ef16af6f",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/resolution/resolver.py",
+      "project_path": "backend/src/faculty_radar/resolution/resolver.py",
+      "git_blob_sha": "b01c31695b0a4d2b7d653806ba1ea16ebcf9cbae",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/resolution/store.py",
+      "project_path": "backend/src/faculty_radar/resolution/store.py",
+      "git_blob_sha": "99bbe9a2e36f33304117fde08919522747dae7f2",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/retrieval/__init__.py",
+      "project_path": "backend/src/faculty_radar/retrieval/__init__.py",
+      "git_blob_sha": "828296abf6d35cad03f690dd3f33bad5614c6da5",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/retrieval/bm25.py",
+      "project_path": "backend/src/faculty_radar/retrieval/bm25.py",
+      "git_blob_sha": "0bb31d50cd1ccccd220bc3ad5cdc13bf221d710f",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/retrieval/filters.py",
+      "project_path": "backend/src/faculty_radar/retrieval/filters.py",
+      "git_blob_sha": "dc911c37e06cfd5e083a48d7ccc2b65a29d1732a",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/retrieval/hybrid.py",
+      "project_path": "backend/src/faculty_radar/retrieval/hybrid.py",
+      "git_blob_sha": "661ce6cfc531f2a3db6b9189d3079b8f889bf7d7",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/retrieval/semantic.py",
+      "project_path": "backend/src/faculty_radar/retrieval/semantic.py",
+      "git_blob_sha": "6e4789b75b6c2da1cc182fbfd2b34f62a2de766a",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/trends/__init__.py",
+      "project_path": "backend/src/faculty_radar/trends/__init__.py",
+      "git_blob_sha": "da1f205ed750cb13f3db75cd4c14b135a7efe634",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/trends/engine.py",
+      "project_path": "backend/src/faculty_radar/trends/engine.py",
+      "git_blob_sha": "275a2090a9f7cd2d0141c3608a4dbdf1fc6d3b02",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/verification/__init__.py",
+      "project_path": "backend/src/faculty_radar/verification/__init__.py",
+      "git_blob_sha": "fdf26b19e86901779764236080069ae0e56765a3",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "src/faculty_radar/verification/checks.py",
+      "project_path": "backend/src/faculty_radar/verification/checks.py",
+      "git_blob_sha": "36687ffe95389823bd66aa51a55ce267dc7cfb3b",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/__init__.py",
+      "project_path": "backend/tests/__init__.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/conftest.py",
+      "project_path": "backend/tests/conftest.py",
+      "git_blob_sha": "9e157d0d7f5c5f3d14021dc15cf639072faf146c",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/fake_openalex.py",
+      "project_path": "backend/tests/fake_openalex.py",
+      "git_blob_sha": "f7f3ddc911852fe2660a63bae2c422a1232451e8",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_collaboration.py",
+      "project_path": "backend/tests/test_collaboration.py",
+      "git_blob_sha": "066c387a41c04d636a0525039bae6683f6a15a00",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_corpus.py",
+      "project_path": "backend/tests/test_corpus.py",
+      "git_blob_sha": "fde8160fba49af5fffd1d7148d8427cf56a02e1c",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_crossref.py",
+      "project_path": "backend/tests/test_crossref.py",
+      "git_blob_sha": "655e6fac1dce63c8907863760a8babaf0be5437b",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_discovery.py",
+      "project_path": "backend/tests/test_discovery.py",
+      "git_blob_sha": "a96cf86b114b4f288c1ab2d8d63134dd329e29fa",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_embeddings.py",
+      "project_path": "backend/tests/test_embeddings.py",
+      "git_blob_sha": "cf81c1ee1e5bc4489bcefe14e0c164c647c7e673",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_evaluation.py",
+      "project_path": "backend/tests/test_evaluation.py",
+      "git_blob_sha": "7404d0294a658f0276a6042c9f1abdbbdff574ae",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_evidence.py",
+      "project_path": "backend/tests/test_evidence.py",
+      "git_blob_sha": "8bd2ce061500ba984ef6f43e9d9829eca1af95e5",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_expertise.py",
+      "project_path": "backend/tests/test_expertise.py",
+      "git_blob_sha": "b7fe7e229e331893f24aecb5b03453d6f626909c",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_foundation.py",
+      "project_path": "backend/tests/test_foundation.py",
+      "git_blob_sha": "7f3855ca092d518726f44c1c874b63f4492e85a3",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_graph.py",
+      "project_path": "backend/tests/test_graph.py",
+      "git_blob_sha": "19cf84d0640cfb2a79a27d4cdac922aa06f42d32",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_hybrid.py",
+      "project_path": "backend/tests/test_hybrid.py",
+      "git_blob_sha": "ca9c309ad7b71b9fded39603a1b6585d787c76cb",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_ingestion.py",
+      "project_path": "backend/tests/test_ingestion.py",
+      "git_blob_sha": "b53899e9a3b9fe339fdb67f06e3168681dce5b25",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_linking.py",
+      "project_path": "backend/tests/test_linking.py",
+      "git_blob_sha": "3b6ade9cb1fd107d6aac9395678bce1ee602f8e6",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_models.py",
+      "project_path": "backend/tests/test_models.py",
+      "git_blob_sha": "c9ad6c4797e1efb16cb1a526ddb5b680f07b1b7c",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_normalization.py",
+      "project_path": "backend/tests/test_normalization.py",
+      "git_blob_sha": "fd2320b8412ada7e50d3d552d3517cc2f9dba659",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_rag.py",
+      "project_path": "backend/tests/test_rag.py",
+      "git_blob_sha": "3674c66f8b5e80f6005fae0fa42d594f909ae0f2",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_ranking.py",
+      "project_path": "backend/tests/test_ranking.py",
+      "git_blob_sha": "8f1ddf04b576ff9907fe1d6614d17c41c44d2d1b",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_resolution.py",
+      "project_path": "backend/tests/test_resolution.py",
+      "git_blob_sha": "2b20bf3b93271147d4f5ea6dd8dbc64219168279",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_retrieval.py",
+      "project_path": "backend/tests/test_retrieval.py",
+      "git_blob_sha": "395815df447a44cf8338736dc468ecc582cf0d93",
+      "mode": "100644"
+    },
+    {
+      "upstream_path": "tests/test_trends.py",
+      "project_path": "backend/tests/test_trends.py",
+      "git_blob_sha": "9d1c7c6ffc00949fa10afbe8b2c924e2e22f1db5",
+      "mode": "100644"
+    }
+  ]
+}

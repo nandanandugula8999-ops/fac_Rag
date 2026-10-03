@@ -1,0 +1,1131 @@
+{
+  "query": "graph neural networks",
+  "status": "ok",
+  "verified": true,
+  "answer_text": "Evidence for 'graph neural networks':\nRoss Maciejewski [EVIDENCE_BASED]: Deep learning models on graphs (e.g., graph neural networks) have recently emerged in machine learning and other related areas, and demonstrated the superior performance in various problems.\n\nEvidence for 'graph neural networks':\nMaosong Sun [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.\n\nEvidence for 'graph neural networks':\nCheng Hong Yang [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.\n\nEvidence for 'graph neural networks':\nChangcheng Li [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.\n\nEvidence for 'graph neural networks':\nZhiyuan Liu [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.\n\nEvidence for 'graph neural networks':\nLifeng Wang [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.\n\nEvidence for 'graph neural networks':\nJie Zhou [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.\n\nEvidence for 'graph neural networks':\nGanqu Cui [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+  "warnings": [],
+  "llm_model": "extractive-v1",
+  "claims": [
+    {
+      "text": "Ross Maciejewski [EVIDENCE_BASED]: Deep learning models on graphs (e.g., graph neural networks) have recently emerged in machine learning and other related areas, and demonstrated the superior performance in various problems.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:9cf02919109df7ea:9",
+          "title": "Graph convolutional networks: a comprehensive review",
+          "year": 2019,
+          "doi": "10.1186/s40649-019-0069-y",
+          "source_url": "https://doi.org/10.1186/s40649-019-0069-y",
+          "quote": "Deep learning models on graphs (e.g., graph neural networks) have recently emerged in machine learning and other related areas, and demonstrated the superior performance in various problems.",
+          "work_id": "W2985331920",
+          "faculty_id": "A5026799813"
+        }
+      ]
+    },
+    {
+      "text": "Maosong Sun [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:3272bdf3efe3d954:2",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "work_id": "W3152893301",
+          "faculty_id": "A5046448314"
+        }
+      ]
+    },
+    {
+      "text": "Cheng Hong Yang [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:a2bf03f9b2fab0fe:5",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "work_id": "W3152893301",
+          "faculty_id": "A5060417049"
+        }
+      ]
+    },
+    {
+      "text": "Changcheng Li [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:8aff32fba4662722:4",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "work_id": "W3152893301",
+          "faculty_id": "A5070644871"
+        }
+      ]
+    },
+    {
+      "text": "Zhiyuan Liu [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:615a0d30d2d143e1:3",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "work_id": "W3152893301",
+          "faculty_id": "A5100320723"
+        }
+      ]
+    },
+    {
+      "text": "Lifeng Wang [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:17f8b3e716a980cd:1",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "work_id": "W3152893301",
+          "faculty_id": "A5100399603"
+        }
+      ]
+    },
+    {
+      "text": "Jie Zhou [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:ae242e96694adce6:6",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "work_id": "W3152893301",
+          "faculty_id": "A5100620306"
+        }
+      ]
+    },
+    {
+      "text": "Ganqu Cui [EVIDENCE_BASED]: Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+      "expertise_type": "EVIDENCE_BASED",
+      "status": "supported",
+      "verification_note": "all 1 citation(s) resolve with verbatim quotes",
+      "citations": [
+        {
+          "evidence_id": "publication:c0c469d29056bfa4:7",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "work_id": "W3152893301",
+          "faculty_id": "A5102542015"
+        }
+      ]
+    }
+  ],
+  "corpus_source": "live-openalex",
+  "corpus_profiles": 206,
+  "corpus_documents": 447,
+  "matches": [
+    {
+      "faculty_id": "A5100399603",
+      "faculty_name": "Lifeng Wang",
+      "score": 0.5830918193830725,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9961151914460822,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I2250653659",
+          "name": "Tencent (China)"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Graph Neural Networks",
+        "Graph Theory and Algorithms"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W3152893301",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "citation_url": "https://doi.org/10.1016/j.aiopen.2021.01.001"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W3152893301",
+          "doc_id": "publication:17f8b3e716a980cd"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5100399603 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 1.0,
+          "weight": 0.9,
+          "contribution": 0.9,
+          "explanation": "retrieved publications of A5100399603 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5100399603 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 1.0,
+          "weight": 0.6,
+          "contribution": 0.6,
+          "explanation": "retrieved publications of A5100399603 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5100399603"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5100399603"
+        },
+        {
+          "name": "citations",
+          "value": 0.9533822973529859,
+          "weight": 0.2,
+          "contribution": 0.1906764594705972,
+          "explanation": "citations to supporting publications for A5100399603"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5046448314",
+      "faculty_name": "Maosong Sun",
+      "score": 0.5748596983915777,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9820519847522785,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I99065089",
+          "name": "Tsinghua University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Graph Neural Networks",
+        "Graph Theory and Algorithms"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W3152893301",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "citation_url": "https://doi.org/10.1016/j.aiopen.2021.01.001"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W3152893301",
+          "doc_id": "publication:3272bdf3efe3d954"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5046448314 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.977498869289914,
+          "weight": 0.9,
+          "contribution": 0.8797489823609227,
+          "explanation": "retrieved publications of A5046448314 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5046448314 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.977498869289914,
+          "weight": 0.6,
+          "contribution": 0.5864993215739484,
+          "explanation": "retrieved publications of A5046448314 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5046448314"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5046448314"
+        },
+        {
+          "name": "citations",
+          "value": 0.9533822973529859,
+          "weight": 0.2,
+          "contribution": 0.1906764594705972,
+          "explanation": "citations to supporting publications for A5046448314"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5100320723",
+      "faculty_name": "Zhiyuan Liu",
+      "score": 0.5670268631462292,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9686708912081414,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I99065089",
+          "name": "Tsinghua University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Graph Neural Networks",
+        "Graph Theory and Algorithms"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W3152893301",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "citation_url": "https://doi.org/10.1016/j.aiopen.2021.01.001"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W3152893301",
+          "doc_id": "publication:615a0d30d2d143e1"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5100320723 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.9560891196192948,
+          "weight": 0.9,
+          "contribution": 0.8604802076573653,
+          "explanation": "retrieved publications of A5100320723 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5100320723 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9560891196192948,
+          "weight": 0.6,
+          "contribution": 0.5736534717715769,
+          "explanation": "retrieved publications of A5100320723 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5100320723"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5100320723"
+        },
+        {
+          "name": "citations",
+          "value": 0.9533822973529859,
+          "weight": 0.2,
+          "contribution": 0.1906764594705972,
+          "explanation": "citations to supporting publications for A5100320723"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5070644871",
+      "faculty_name": "Changcheng Li",
+      "score": 0.559562912801546,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9559199760359743,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I2250653659",
+          "name": "Tencent (China)"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Graph Neural Networks",
+        "Graph Theory and Algorithms"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W3152893301",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "citation_url": "https://doi.org/10.1016/j.aiopen.2021.01.001"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W3152893301",
+          "doc_id": "publication:8aff32fba4662722"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5070644871 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.9356876553438276,
+          "weight": 0.9,
+          "contribution": 0.8421188898094448,
+          "explanation": "retrieved publications of A5070644871 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5070644871 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9356876553438276,
+          "weight": 0.6,
+          "contribution": 0.5614125932062966,
+          "explanation": "retrieved publications of A5070644871 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5070644871"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5070644871"
+        },
+        {
+          "name": "citations",
+          "value": 0.9533822973529859,
+          "weight": 0.2,
+          "contribution": 0.1906764594705972,
+          "explanation": "citations to supporting publications for A5070644871"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5060417049",
+      "faculty_name": "Cheng Hong Yang",
+      "score": 0.552440589702223,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9437526740746309,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I139759216",
+          "name": "Beijing University of Posts and Telecommunications"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Graph Neural Networks",
+        "Graph Theory and Algorithms"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W3152893301",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "citation_url": "https://doi.org/10.1016/j.aiopen.2021.01.001"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W3152893301",
+          "doc_id": "publication:a2bf03f9b2fab0fe"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5060417049 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.916219972205678,
+          "weight": 0.9,
+          "contribution": 0.8245979749851102,
+          "explanation": "retrieved publications of A5060417049 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5060417049 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.916219972205678,
+          "weight": 0.6,
+          "contribution": 0.5497319833234068,
+          "explanation": "retrieved publications of A5060417049 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5060417049"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5060417049"
+        },
+        {
+          "name": "citations",
+          "value": 0.9533822973529859,
+          "weight": 0.2,
+          "contribution": 0.1906764594705972,
+          "explanation": "citations to supporting publications for A5060417049"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5100620306",
+      "faculty_name": "Jie Zhou",
+      "score": 0.5477777596787688,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9357870061178968,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I99065089",
+          "name": "Tsinghua University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Graph Neural Networks",
+        "Graph Theory and Algorithms"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W3152893301",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "citation_url": "https://doi.org/10.1016/j.aiopen.2021.01.001"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W3152893301",
+          "doc_id": "publication:ae242e96694adce6"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5100620306 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.9034749034749033,
+          "weight": 0.9,
+          "contribution": 0.813127413127413,
+          "explanation": "retrieved publications of A5100620306 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5100620306 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.9034749034749033,
+          "weight": 0.6,
+          "contribution": 0.542084942084942,
+          "explanation": "retrieved publications of A5100620306 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5100620306"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5100620306"
+        },
+        {
+          "name": "citations",
+          "value": 0.9533822973529859,
+          "weight": 0.2,
+          "contribution": 0.1906764594705972,
+          "explanation": "citations to supporting publications for A5100620306"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5102542015",
+      "faculty_name": "Ganqu Cui",
+      "score": 0.5432429701903553,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9280400740751903,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I99065089",
+          "name": "Tsinghua University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Graph Neural Networks",
+        "Graph Theory and Algorithms"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W3152893301",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "citation_url": "https://doi.org/10.1016/j.aiopen.2021.01.001"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W3152893301",
+          "doc_id": "publication:c0c469d29056bfa4"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5102542015 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8910798122065727,
+          "weight": 0.9,
+          "contribution": 0.8019718309859155,
+          "explanation": "retrieved publications of A5102542015 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5102542015 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8910798122065727,
+          "weight": 0.6,
+          "contribution": 0.5346478873239436,
+          "explanation": "retrieved publications of A5102542015 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5102542015"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5102542015"
+        },
+        {
+          "name": "citations",
+          "value": 0.9533822973529859,
+          "weight": 0.2,
+          "contribution": 0.1906764594705972,
+          "explanation": "citations to supporting publications for A5102542015"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5101584823",
+      "faculty_name": "Zhengyan Zhang",
+      "score": 0.5388310149329227,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9205029838437429,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I99065089",
+          "name": "Tsinghua University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Graph Neural Networks",
+        "Graph Theory and Algorithms"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W3152893301",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "citation_url": "https://doi.org/10.1016/j.aiopen.2021.01.001"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W3152893301",
+          "doc_id": "publication:dacfaf92df207919"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5101584823 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8790204678362572,
+          "weight": 0.9,
+          "contribution": 0.7911184210526315,
+          "explanation": "retrieved publications of A5101584823 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5101584823 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8790204678362572,
+          "weight": 0.6,
+          "contribution": 0.5274122807017543,
+          "explanation": "retrieved publications of A5101584823 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5101584823"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5101584823"
+        },
+        {
+          "name": "citations",
+          "value": 0.9533822973529859,
+          "weight": 0.2,
+          "contribution": 0.1906764594705972,
+          "explanation": "citations to supporting publications for A5101584823"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5010557815",
+      "faculty_name": "Shengding Hu",
+      "score": 0.5325572386947999,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.9097852827702831,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I99065089",
+          "name": "Tsinghua University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Graph Neural Networks",
+        "Graph Theory and Algorithms"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W3152893301",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "citation_url": "https://doi.org/10.1016/j.aiopen.2021.01.001"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Title: Graph neural networks: A review of methods and applications\n\nAbstract: Lots of learning tasks require dealing with graph data which contains rich relation information among elements.",
+          "title": "Graph neural networks: A review of methods and applications",
+          "year": 2020,
+          "doi": "10.1016/j.aiopen.2021.01.001",
+          "source_url": "https://doi.org/10.1016/j.aiopen.2021.01.001",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W3152893301",
+          "doc_id": "publication:e91c7a83fbcbf852"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5010557815 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8618721461187214,
+          "weight": 0.9,
+          "contribution": 0.7756849315068493,
+          "explanation": "retrieved publications of A5010557815 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5010557815 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8618721461187214,
+          "weight": 0.6,
+          "contribution": 0.5171232876712328,
+          "explanation": "retrieved publications of A5010557815 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 1.0,
+          "weight": 0.3,
+          "contribution": 0.3,
+          "explanation": "recency of supporting publications for A5010557815"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5010557815"
+        },
+        {
+          "name": "citations",
+          "value": 0.9533822973529859,
+          "weight": 0.2,
+          "contribution": 0.1906764594705972,
+          "explanation": "citations to supporting publications for A5010557815"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    },
+    {
+      "faculty_id": "A5026799813",
+      "faculty_name": "Ross Maciejewski",
+      "score": 0.5217763969102044,
+      "expertise_type": "EVIDENCE_BASED",
+      "stated_score": 0.0,
+      "evidence_score": 0.8913680113882657,
+      "inferred_score": 0.0,
+      "institutions": [
+        {
+          "id": "I55732556",
+          "name": "Arizona State University"
+        }
+      ],
+      "stated_topics": [],
+      "matched_topics": [
+        "Advanced Graph Neural Networks",
+        "Graph Theory and Algorithms"
+      ],
+      "supporting_publications": [
+        {
+          "work_id": "W2985331920",
+          "title": "Graph convolutional networks: a comprehensive review",
+          "year": 2019,
+          "doi": "10.1186/s40649-019-0069-y",
+          "citation_url": "https://doi.org/10.1186/s40649-019-0069-y"
+        }
+      ],
+      "evidence": [
+        {
+          "quote": "Deep learning models on graphs (e.g., graph neural networks) have recently emerged in machine learning and other related areas, and demonstrated the superior performance in various problems.",
+          "title": "Graph convolutional networks: a comprehensive review",
+          "year": 2019,
+          "doi": "10.1186/s40649-019-0069-y",
+          "source_url": "https://doi.org/10.1186/s40649-019-0069-y",
+          "expertise_type": "EVIDENCE_BASED",
+          "relevance": 1.0,
+          "work_id": "W2985331920",
+          "doc_id": "publication:9cf02919109df7ea"
+        }
+      ],
+      "signals": [
+        {
+          "name": "explicit_topic",
+          "value": 0.0,
+          "weight": 1.0,
+          "contribution": 0.0,
+          "explanation": "declared expertise for A5026799813 in the consent registry"
+        },
+        {
+          "name": "topic_evidence",
+          "value": 0.8748921484037964,
+          "weight": 0.9,
+          "contribution": 0.7874029335634167,
+          "explanation": "retrieved publications of A5026799813 tagged with query topics"
+        },
+        {
+          "name": "semantic",
+          "value": 0.0,
+          "weight": 0.7,
+          "contribution": 0.0,
+          "explanation": "vector-space publication matches for A5026799813 without literal terms"
+        },
+        {
+          "name": "keyword",
+          "value": 0.8748921484037964,
+          "weight": 0.6,
+          "contribution": 0.5249352890422778,
+          "explanation": "retrieved publications of A5026799813 tagged with query keywords"
+        },
+        {
+          "name": "recency",
+          "value": 0.8705505632961242,
+          "weight": 0.3,
+          "contribution": 0.26116516898883724,
+          "explanation": "recency of supporting publications for A5026799813"
+        },
+        {
+          "name": "consistency",
+          "value": 1.0,
+          "weight": 0.4,
+          "contribution": 0.4,
+          "explanation": "share of retrieved publications on the query topic for A5026799813"
+        },
+        {
+          "name": "citations",
+          "value": 0.8288991786865293,
+          "weight": 0.2,
+          "contribution": 0.16577983573730587,
+          "explanation": "citations to supporting publications for A5026799813"
+        }
+      ],
+      "notes": [
+        "0 stated passage(s), 1 evidence passage(s), 0 inferred passage(s)"
+      ]
+    }
+  ],
+  "discovery": {
+    "provider": "openalex",
+    "cached": false,
+    "works_retrieved": 50,
+    "api_calls": 1,
+    "scope_institutions": [],
+    "crossref_checked": 45,
+    "crossref_verified": 8,
+    "crossref_enriched": 0,
+    "crossref_mismatched": 0,
+    "query": "graph neural networks"
+  }
+}
