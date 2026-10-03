@@ -84,6 +84,18 @@ def get_paper_detail(openalex_id: str, *, settings: Settings | None = None) -> d
     if not works:
         return None
     w = works[0]
+    # Author display names survive only in the raw payload (normalization keeps
+    # IDs), so extract them here: zero extra API calls, nothing invented.
+    authors: list[dict] = []
+    for a in payload.get("authorships") or []:
+        raw = (a.get("author") or {})
+        name = (raw.get("display_name") or "").strip()
+        if not name:
+            continue
+        insts = [i.get("display_name") for i in (a.get("institutions") or []) if i.get("display_name")]
+        authors.append({"name": name, "orcid": raw.get("orcid"), "institutions": insts[:2],
+                        "position": a.get("author_position")})
+    source = (payload.get("primary_location") or {}).get("source") or {}
     return {
         "id": w.openalex_id,
         "title": w.title,
@@ -91,6 +103,8 @@ def get_paper_detail(openalex_id: str, *, settings: Settings | None = None) -> d
         "doi": w.doi,
         "citation_url": w.citation_url,
         "abstract": w.abstract,
+        "authors": authors[:20],
+        "venue": source.get("display_name"),
         "topics": [t.name for t in (w.topics or [])],
         "keywords": [k.name for k in (w.keywords or [])],
         "concepts": [c.name for c in (w.concepts or [])][:10],

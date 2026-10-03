@@ -94,6 +94,7 @@ def _run_faculty(session, settings, discovery):
         "summary": f"{len(matches)} faculty discovered with evidence",
         "matches": matches,
         "status": answer.status.value,
+        "verified": answer.verified,
     }
 
 

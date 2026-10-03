@@ -8,7 +8,10 @@ import type { SseEvent } from '@/lib/session';
 export default function RunProgress({ events, running }: { events: SseEvent[]; running: boolean }) {
   const steps = events.filter((e) => e.event === 'progress' || e.event === 'stage_error');
   const doneStages = new Set(events.filter((e) => e.event === 'stage_done').map((e) => e.stage));
-  if (!steps.length && !running) return null;
+  // Streamed LLM tokens since the last stage start, rendered progressively.
+  const lastStart = events.map((e, i) => (e.event === 'stage_started' ? i : -1)).filter((i) => i >= 0).pop() ?? -1;
+  const streamText = events.filter((e, i) => i > lastStart && e.event === 'token').map((e) => e.message).join('');
+  if (!steps.length && !running && !streamText) return null;
   return (
     <div className="run-progress" aria-live="polite">
       {steps.map((s, i) => {
@@ -28,6 +31,7 @@ export default function RunProgress({ events, running }: { events: SseEvent[]; r
         </div>
       )}
       {!running && steps.length > 0 && <div className="run-step idle"><Circle size={12} /><span>Run complete — results saved to this session.</span></div>}
+      {streamText && <pre className="stream-text">{streamText}</pre>}
     </div>
   );
 }

@@ -42,6 +42,8 @@ export default function Dashboard({ user }: { user: string }) {
   // Client-only clock: SSR renders empty so hydration never mismatches.
   const [now, setNow] = useState<Date | null>(null);
   useEffect(() => { setNow(new Date()); }, []);
+  // Fresh input per session: switching sessions must not show stale text.
+  useEffect(() => { setIdea(''); }, [sessionId]);
 
   useEffect(() => {
     try { setRecent(JSON.parse(localStorage.getItem('faculty-recent') || '[]')); } catch {}
@@ -90,7 +92,6 @@ export default function Dashboard({ user }: { user: string }) {
 
   const papers = session?.results?.literature?.papers || [];
   const faculty = session?.results?.faculty?.matches || [];
-  const gaps = session?.results?.gaps?.gaps || [];
   const topics = useMemo(() => {
     const counts = new Map<string, number>();
     papers.forEach((p: any) => (p.topics || []).forEach((t: string) => counts.set(t, (counts.get(t) || 0) + 1)));
@@ -149,6 +150,11 @@ export default function Dashboard({ user }: { user: string }) {
         </div>
 
         <h2 style={{ marginTop: 22 }}>Recent Faculty Discoveries</h2>
+        {session?.results?.faculty?.verified !== undefined && (
+          <p className={`verify-badge ${session.results.faculty.verified ? 'ok' : 'warn'}`}>
+            {session.results.faculty.verified ? '✓ Verified against corpus' : '! Unverified — treat cautiously'}
+          </p>
+        )}
         {faculty.length ? (
           <div className="continue-grid">
             {faculty.slice(0, 3).map((f: any) => (
@@ -195,6 +201,7 @@ export default function Dashboard({ user }: { user: string }) {
 }
 
 function ContinueCard({ s, active }: { s: any; active: boolean }) {
+  const { selectSession } = useSession();
   const done = Object.values(s.stage_status || {}).filter((v) => v === 'done').length;
   const pct = Math.round((done / 8) * 100);
   const order = ['idea', 'faculty', 'literature', 'analysis', 'gaps', 'direction', 'planner', 'paper'];
@@ -209,7 +216,11 @@ function ContinueCard({ s, active }: { s: any; active: boolean }) {
       <div className="progress-track"><div className="progress-fill" style={{ width: `${pct}%` }} /></div>
       <p className="small muted">{pct}% · {papers} papers · {fac} faculty · {gaps} gaps</p>
       <p className="small muted">Stage: {current} · {String(last).slice(0, 80)}</p>
-      <Link className="button secondary small-btn" href={`/app?session=${s.id}`}>Continue</Link>
+      {active ? (
+        <span className="small muted">Active session</span>
+      ) : (
+        <button className="button secondary small-btn" onClick={() => selectSession(s.id)}>Continue</button>
+      )}
     </article>
   );
 }

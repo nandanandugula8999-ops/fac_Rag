@@ -6,6 +6,7 @@ import { Empty, EmptyHeader, EmptyTitle, EmptyDescription } from '@/components/u
 import { api, type Paper } from '@/lib/api';
 import { useSession } from '@/lib/session';
 import RunProgress from './RunProgress';
+import { CitationModal, ExportButtons, NotesPanel } from './Widgets';
 
 // All pages share one rule: with a session, the idea is NEVER retyped.
 // Stored stage results render; Re-run refreshes via live backend SSE.
@@ -66,8 +67,10 @@ export function LiteraturePage({ initialQuery, sessionId }: { initialQuery: stri
     } catch (e: any) { setError(String(e.message || e)); setStatus('error'); }
   }
   const stored: Paper[] = result?.papers || [];
+  const [cited, setCited] = useState<Paper | null>(null);
   const list = (items: Paper[]) => (
     <>
+      {cited && <CitationModal paper={cited} sessionId={sid} onClose={() => setCited(null)} />}
       {items.map((p) => (
         <article key={p.id} className="publication-item">
           <div><div className="eyebrow">{p.year || 'n.d.'} · cited {p.cited_by_count} · {p.is_open_access ? 'open access' : 'closed'}</div>
@@ -75,7 +78,9 @@ export function LiteraturePage({ initialQuery, sessionId }: { initialQuery: stri
             <p className="muted">{(p.abstract || '').slice(0, 220)}</p>
             <div className="tags">{(p.topics || []).map((t) => <span className="tag" key={t}>{t}</span>)}</div>
             <div className="card-bottom">
+              <Link className="text-button" href={`/paper?id=${encodeURIComponent(p.id)}${sid ? `&session=${sid}` : ''}`}>Explain</Link>
               <Link className="text-button" href={`/analysis${sid ? `?session=${sid}` : ''}`}>Analyze Paper</Link>
+              <button className="subtle-link" onClick={() => setCited(p)}>Cite</button>
               <SaveButton sid={sid} paper={p} />
             </div>
           </div>
@@ -236,6 +241,12 @@ export function PlannerPage({ initialQuery, sessionId }: { initialQuery: string;
           <SessionHead idea={idea} stage="planner" />
           <RunProgress events={events} running={running} />
           {storedPlan ? view(storedPlan, true) : <p className="muted">No plan in this session yet — run the stage.</p>}
+          {storedPlan && (
+            <div className="two-col" style={{ marginTop: 12 }}>
+              <article className="research-card"><h3>Research Notes</h3><NotesPanel sessionId={sid} /></article>
+              <article className="research-card"><h3>Export</h3><ExportButtons session={stageData} /></article>
+            </div>
+          )}
         </>
       ) : (
         <>
@@ -300,7 +311,7 @@ export function StudioPage({ sessionId }: { sessionId?: string | null }) {
         </nav>
         <div>
           <textarea value={text} onChange={(e) => setText(e.target.value)} rows={22} style={{ width: '100%' }} aria-label="Paper draft" />
-          <div className="card-bottom"><button className="button primary small-btn" onClick={save}>Save draft</button></div>
+          <div className="card-bottom"><button className="button primary small-btn" onClick={save}>Save draft</button><ExportButtons session={stageData} /></div>
         </div>
         <aside className="studio-ai">
           <h3>AI writing assistant</h3>

@@ -24,6 +24,7 @@ type Ctx = {
   running: boolean;
   createSession: (idea: string) => Promise<any>;
   selectSession: (id: string) => Promise<void>;
+  clearSession: () => void;
   refresh: () => Promise<void>;
   runStages: (stages: string[], onEvent?: (e: SseEvent) => void) => Promise<void>;
 };
@@ -48,6 +49,7 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
 
   const selectSession = useCallback(async (id: string) => {
     setSessionId(id);
+    setEvents([]);
     try { localStorage.setItem(LS_KEY, id); } catch {}
     try {
       const s: any = await api.session(id);
@@ -69,6 +71,13 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
     setEvents([]);
     try { localStorage.setItem(LS_KEY, s.id); } catch {}
     return s;
+  }, []);
+
+  const clearSession = useCallback(() => {
+    setSessionId(null);
+    setSession(null);
+    setEvents([]);
+    try { localStorage.removeItem(LS_KEY); } catch {}
   }, []);
 
   // Streams REAL backend progress (fetch reader over SSE endpoint).
@@ -106,7 +115,7 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
   }, [sessionId, refresh]);
 
   return (
-    <SessionCtx.Provider value={{ sessionId, session, events, running, createSession, selectSession, refresh, runStages }}>
+    <SessionCtx.Provider value={{ sessionId, session, events, running, createSession, selectSession, clearSession, refresh, runStages }}>
       {children}
     </SessionCtx.Provider>
   );
